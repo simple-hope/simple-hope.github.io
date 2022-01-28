@@ -63,8 +63,9 @@ git config --global user.name "e1024"
 git config --global user.email "e@e.com"
 git config --global core.editor vim
 git config --global core.quotepath false
-git config --global alias.dt "diff --text"
 git config --global alias.goa 'log --graph --pretty=oneline --abbrev-commit'
+git config --global alias.dt "diff --text"
+git config --global alias.uiau "update-index --assume-unchanged"
 
 ```
 
