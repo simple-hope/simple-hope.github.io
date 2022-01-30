@@ -127,6 +127,7 @@ Lemon Tree|Fool's Garden
 
 ### 网易云音乐收藏
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=431855151&auto=1&height=66"></iframe>
+
 |NAME|SINGER|
 |----|----|
 |Where Are You Now|Zayion McCall|
@@ -203,4 +204,12 @@ Lemon Tree|Fool's Garden
 |Firefly|A*Teens|
 
 ## 交通事故记录视频中的战歌
-见旧车小U盘
+Beyond The Senses|Astrix
+Blanche|Ataraxia
+Liberators|Epic Score
+Blanche|R4BKZ
+Arms Dealer|SLYRAX
+Ya Not Ready|Sean Paul
+死神少女|心华,初音ミク
+
+
