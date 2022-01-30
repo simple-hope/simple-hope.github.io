@@ -5,15 +5,40 @@ date:   2022-01-28 18:00:00 +0800
 categories: jekyll update
 ---
 
-# 歌手
+# 歌手分类
+## M2M
 ```
-M2M
-Lenka
-Taylor swift
-容祖儿
+pretty boy
+don't say you love me
+Mirror Mirror
+the day you went away
+```
+## 容祖儿
+```
+小小
+习惯失恋
+心淡
+挥着翅膀的女孩
+```
+## Lenka
+```
+Everything at Once
+The Show
+Trouble Is A Friend
+blus skies
+lucky
+unique
+```
+## Taylor swift
+```
+love story
+blank space
+look what you made me do
+wildest dreams
+you belong with me
 ```
 
-# 歌曲
+# 时间分类
 
 ## 工作
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1398343651&auto=1&height=66"></iframe>
@@ -22,26 +47,38 @@ Taylor swift
 卡布奇诺
 亲爱的旅人
 繁星四月
-世间美好与你环环相扣
-我多想快快长大
-微微
 最初的梦想
-爱我还是他
-画皮
-凉凉
 有点甜
-遇见
-左边
+世间美好与你环环相扣|冯提莫
+我多想快快长大|李昕融
+你笑起来真好看|李昕融
+微微|YoYo
+雨爱|杨丞琳
+左边|杨丞琳
+爱我还是他|陶喆
+画皮|张靓颖
+凉凉|张碧晨
+年轮|张碧晨
+遇见|孙燕姿
 启程
 稻香
-蝴蝶泉边
-岁月神偷
-我的梦
-小手拉大手
-星空下的我
-走着走着就散了
-别烦恼
-喜欢你
+蝴蝶泉边|黄雅莉
+岁月神偷|金玟岐
+我的梦|七色鹿
+欧若拉|张韶涵
+淋雨一直走|七色鹿
+快乐崇拜|潘玮柏 / 张韶涵
+小手拉大手|梁静茹
+可惜不是你|梁静茹
+宁夏|梁静茹
+会呼吸的痛|梁静茹
+星空下的我|柒老师本柒
+匆匆那年|柒老师本柒
+漂洋过海来看你|柒老师本柒
+如果云知道|柒老师本柒
+喜欢你|柒老师本柒
+走着走着就散了|小段
+别烦恼|桔桃的梦
 ```
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=210790&auto=1&height=66"></iframe>
 
@@ -53,6 +90,8 @@ Taylor swift
 我很快乐
 我的歌声里
 与你最后的夏天
+十年
+至少还有你
 ```
 
 ## 大学
@@ -61,8 +100,6 @@ Taylor swift
 she
 Be What You Wanna Be
 How Far I'll Go（海洋之心）
-the day you went away
-小小
 爱的回归线
 青春修炼手册
 爱如潮水
@@ -72,6 +109,7 @@ let it go
 
 ## 毕业
 ```
+热爱105°C的你|阿肆
 一起走过的日子
 安守本分
 小酒窝
@@ -87,9 +125,7 @@ let it go
 日不落|蔡依林
 画心|张靓颖
 明天，你好|牛奶咖啡
-The Show|Lenka
 I wanted you|Ina Wroldsen
-Everything at Once|Lenka
 I Just Wanna Run|Kait Weston
 Nothing on you|邓福如 AFÜ
 Proud Of You|冯曦妤
@@ -99,7 +135,6 @@ Let It Go|Idina Menzel
 ### 萃取
 ```
 世界上另一个我|莫宁
-欧若拉|张韶涵
 Bye Bye Bye|Lovestoned
 Locked Away|OutaMatic/M
 Faded|Alan Walker/I
@@ -121,7 +156,6 @@ Try Everything|Shakira
 A Little Love|冯曦妤
 Stay Here Forever|Jewel
 If I Stay|肖恩Shaun G
-Trouble Is A Friend|Lenka
 Lemon Tree|Fool's Garden
 ```
 
@@ -181,7 +215,6 @@ Lemon Tree|Fool's Garden
 |Clsr (Aash Mehta Flip)|The Chainsmok|
 |Vagrant|Feint / Veela|
 |Love Me Like You Do|Ellie Goulding|
-|Mirror Mirror|M2M|
 |Starships|Nicki Minaj|
 |What Are Words|Chris Medina|
 |Good Time|Owl City / Carly|
@@ -204,6 +237,7 @@ Lemon Tree|Fool's Garden
 |Firefly|A*Teens|
 
 ## 交通事故记录视频中的战歌
+```
 Beyond The Senses|Astrix
 Blanche|Ataraxia
 Liberators|Epic Score
@@ -211,5 +245,5 @@ Blanche|R4BKZ
 Arms Dealer|SLYRAX
 Ya Not Ready|Sean Paul
 死神少女|心华,初音ミク
-
+```
 
