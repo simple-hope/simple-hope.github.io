@@ -43,6 +43,9 @@ you belong with me
 ## 工作
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1398343651&auto=1&height=66"></iframe>
 ```
+一路生花
+少女时代
+你被写在我的歌里
 小星星
 卡布奇诺
 亲爱的旅人
