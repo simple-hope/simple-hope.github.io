@@ -15,7 +15,7 @@ categories: jekyll update
 
 ## 搭建加密环境
 
-### Ubuntu 20.04.3 LTS
+### 在私密设备 Ubuntu 20.04.3 LTS 中生成密钥并导出
 ```bash
 $ gpg --full-generate-key
  2
@@ -66,9 +66,15 @@ $ gpg --edit-key e@e.com
  save
 ```
 
-### 在git中配置filter和.gitattributes
+### 在git中配置filter和diff
 ```bash
+# 敏感设备中的 git 配置用于加密
+echo '*.md filter=gpg-a' >> .gitattributes
 git config filter.gpg-a.clean  "gpg -e -a -r e@e.com"
+
+# 私密设备中的 git 配置用于解密
 git config filter.gpg-a.smudge "gpg -d -a -r e@e.com"
-echo '*.md gpg-a' > .gitattributes
+echo '*.md diff=decrypt' >> .gitattributes
+git config diff.decrypt.textconv "gpg -d -a -r e@e.com"
+
 ```
