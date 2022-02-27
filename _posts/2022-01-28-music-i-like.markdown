@@ -43,6 +43,9 @@ you belong with me
 ## 工作
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1398343651&auto=1&height=66"></iframe>
 ```
+Viva la vida
+手扶拖拉机斯基
+New boy
 一路生花
 少女时代
 你被写在我的歌里
@@ -83,7 +86,6 @@ you belong with me
 走着走着就散了|小段
 别烦恼|桔桃的梦
 ```
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=210790&auto=1&height=66"></iframe>
 
 ## 中学
 ```
@@ -98,7 +100,6 @@ you belong with me
 ```
 
 ## 大学
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27147208&auto=1&height=66"></iframe>
 ```
 she
 Be What You Wanna Be
@@ -163,7 +164,6 @@ Lemon Tree|Fool's Garden
 ```
 
 ### 网易云音乐收藏
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=431855151&auto=1&height=66"></iframe>
 
 |NAME|SINGER|
 |----|----|
