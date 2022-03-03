@@ -74,7 +74,7 @@ git config filter.gpg-a.clean  "gpg -e -a -r e@e.com"
 
 # 私密设备中的 git 配置用于解密
 git config filter.gpg-a.smudge "gpg -d -a -r e@e.com"
-echo '*.md diff=decrypt' >> .gitattributes
-git config diff.decrypt.textconv "gpg -d -a -r e@e.com"
+echo '*.md diff=keep' >> .gitattributes
+git config diff.keep.textconv cat
 
 ```
