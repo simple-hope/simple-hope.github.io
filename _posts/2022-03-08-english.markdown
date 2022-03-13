@@ -5,6 +5,9 @@ date:   2022-03-08 09:25:26 +0800
 categories: jekyll update
 ---
 
+## 冥想
+There's nothing like a 20-second meditation micre-sesh to Zen out.
+
 ## love
 when I told you that I missed you, I didn't mean to make you feel pressured.
 
@@ -29,6 +32,8 @@ I'm unsure what happens next. But endings are necessary for growth. No matter ho
 ### animal / control
 Don't deny the animal, but don't let it control you either.
 
+Don't go wasting that trying to keep everything under your control.
+
 ## hard
 I've tried harder at this than I ever have at anything.
 
@@ -39,13 +44,21 @@ The future isn't set. There is still hope.
 Sometimes, great possiblities are right in front of us, and we don't see them, because we choose not to.
 He took a leap, and it changed his life for the better.
 
-## choice
+## 面对
 We have to live with the choices we make.
+
+You're just postponing the inevitable. 推迟了不可避免的事
+
+It's time to grow up and face the music(现实)
+
+Life is beautiful and terrible, all at the same time. But if we're only living part of it, then we're not living at all.
 
 ## perfect
 My country is by no means perfect, but at least we are free to criticize out government, vote in fair elections, and love whom we choose.
 
 Sometimes, we screw things up for the better.
+
+Sometimes things get messed up for the better.
 
 I can’t see my way to a clear, definite ending for this plan. How do I act on a plan when I fell this doubt.
 
@@ -64,7 +77,11 @@ My upbringing（成长经历） was only dysfunction. But dysfunction doesn't ge
 
 I always try and mask my pain in front of beautiful women, 'cause I thing it makes me seem more masculine.
 
+No one is responsible for the family they are born into. All that matters is who they decide to be, and you've decided to be brave and big-hearted.
+
 ## fear
+It was awful, and I just keep playing it over and over again in my head.
+
 Fear makes us do a lot of things that we shouldn't.
 
 Courage is the mastery of fear, not the absence of it.
@@ -103,6 +120,8 @@ It's hard to concentrate in these intense（紧张） situations.
 #### 改变与适应
 Things have changed.
 
+Fitting in is hard enough, so many people telling you what to do and what to wear.
+
 I was just starting to warm up to this place.
 
 It's just a lot to take in right now.
@@ -122,6 +141,9 @@ Instead of assigning blame, let's try to figure out what we're gonna do next.
 ## god
 We are all children in the eyes of God!
 
+## trust
+You just spent too much time with my sisters to be trusted.
+
 ## magic
 Everything powerful is dangerous.
 
@@ -129,6 +151,8 @@ Absolute power corrupts. Having the ability to rewrite your own reality, it's to
 
 Being yourself, that is a magic stronger than any wish.
 Being truly okay with myself. Scars and all is how the right people truly found me.
+
+I learn magic the hard way.
 
 A magician never reveals his secrets.
 
@@ -146,9 +170,11 @@ Usually, one person doesn't have the solution. But 100 people with 1% solution -
 Pieces solving a puzzle. 众人拾柴火焰高
 
 ## life
-Life is a game of chance（碰运气）
+Life is a game of chance.（碰运气）
 
 My hands are tied.（我无能为力）
+
+Everything comes at a price.（世界没有免费的午餐）
 
 The world is full of wonder.
 
