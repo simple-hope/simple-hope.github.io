@@ -27,6 +27,10 @@ cat ~/.ssh/id_ed25519.pub
 # 需手动把公钥放上github或gitee
 ssh -T git@gitee.com
 yes
+# 输出 "... GitHub does not provide shell access." 是正常的，错误输出是：
+# Agent admitted failure to sign using the key.
+# debug1: No more authentication methods to try.
+# Permission denied (publickey).
 ```
 
 ## 不改变/home重装ubuntu后要做
@@ -35,20 +39,10 @@ yes
 # 使用本地时区可避免与windows时间错乱
 timedatectl set-local-rtc 1
 
-ssh -T git@github.com
-yes
-# 输出 "... GitHub does not provide shell access." 是正常的，错误输出是：
-# Agent admitted failure to sign using the key.
-# debug1: No more authentication methods to try.
-# Permission denied (publickey).
-
 sudo echo 获取临时sudo免密权限
 
 sudo apt -y update 
 sudo apt -y install vim git
-sudo apt -y install ffmpeg
-sudo apt -y install python3-pip
-pip3 install bs4
 
 cd ~/文档/
 git clone git@gitee.com:ubuntubackup/dot-file.git
@@ -65,7 +59,6 @@ git config --global user.email "e@e.com"
 git config --global core.editor vim
 git config --global core.quotepath false
 git config --global alias.goa 'log --graph --pretty=oneline --abbrev-commit'
-git config --global alias.dt "diff --text"
 git config --global alias.uiau "update-index --assume-unchanged"
 
 ```
