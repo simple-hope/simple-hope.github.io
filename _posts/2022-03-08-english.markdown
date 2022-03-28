@@ -5,9 +5,6 @@ date:   2022-03-08 09:25:26 +0800
 categories: jekyll update
 ---
 
-## 冥想
-There's nothing like a 20-second meditation micre-sesh to Zen out.
-
 ## love
 when I told you that I missed you, I didn't mean to make you feel pressured.
 
@@ -156,6 +153,9 @@ Instead of assigning blame, let's try to figure out what we're gonna do next.
 We are all children in the eyes of God!
 
 It's like I've gota deeper connection to religion than I've ever had.
+
+## 冥想
+There's nothing like a 20-second meditation micre-sesh to Zen out.
 
 ## trust
 You just spent too much time with my sisters to be trusted.
