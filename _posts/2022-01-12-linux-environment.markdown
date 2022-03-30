@@ -111,3 +111,23 @@ uC6ET+hBJKBPo5ysYKMKIqQGxWBn/P8N5gCIYAQYEQIAIBYhBKdI4MBzTxi3CgoS
 *.md filter=gpg-a
 *.md diff=plaintext
 ```
+## gitlab私有化部署到Ubuntu 20.04
+```
+sudo apt-get update
+sudo apt-get install -y curl openssh-server ca-certificates tzdata perl
+sudo apt-get install -y postfix
+# 在安装 Postfix 的过程中可能会出现一个配置界面，在该界面中选择“Internet Site”并按下回车。把“mail name”设置为 gitlab.sincerity.com
+wget https://omnibus.gitlab.cn/ubuntu/focal/gitlab-jh_14.9.0-jh.0_amd64.deb
+export EXTERNAL_URL=https://gitlab.sincerity.com
+sudo su
+dpkg -i gitlab-jh_14.9.0-jh.0_amd64.deb
+vi /etc/gitlab/gitlab.rb
+# gitlab_rails['initial_root_password'] = 'my-strong-password'
+# external_url "http://gitlab.example.com"
+gitlab-ctl reconfigure
+
+mkdir /secret/gitlab/backups/
+crontab -e -u root
+15 04 * * 2-6  gitlab-ctl backup-etc && cd /etc/gitlab/config_backup && cp $(ls -t | head -n1) /secret/gitlab/backups/
+# 手动登录root账户并修改密码，偏好设置->本地化->语言->中文 
+```
