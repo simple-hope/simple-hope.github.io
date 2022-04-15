@@ -237,6 +237,31 @@ categories: jekyll update
 ```
 行动：追随陈惠阿姨
 
+# 性格优点的调查 (VIA)
+以下是你在“价值实践VIA突显优点调查”的得分。请参考<<真正的快乐>> Authentic Happiness一书，以助分析得分。各项优点的等级排列，反映了你在此调查中２４项优点的整体分数，以及在每项优点中的能力。你最突出的五项优点，特别是那些被列为突显优点的，都是值得你留意，并加以利用。
+
+百分比和棒状图表是按每项优点，把你的整体自我评分与其它人的自我评分作比较。棒度越长，代表越多人拥有这项特有的优点。很多人在一些优点中有较高的分数，而其它的优点则较逊色，故此，棒状图表不一定与你个人的优点一样有相同的等级排列。
+
+Your Top Strength
+Forgiveness and mercy -
+You forgive those who have done you wrong. You always give people a second chance. Your guiding principle is mercy and not revenge.
+
+Your Second Strength
+Appreciation of beauty and excellence -
+You notice and appreciate beauty, excellence, and/or skilled performance in all domains of life, from nature to art to mathematics to science to everyday experience.
+
+Strength #3
+Love of learning -
+You love learning new things, whether in a class or on your own. You have always loved school, reading, and museums-anywhere and everywhere there is an opportunity to learn.
+
+Strength #4
+Spirituality, sense of purpose, and faith -
+You have strong and coherent beliefs about the higher purpose and meaning of the universe. You know where you fit in the larger scheme. Your beliefs shape your actions and are a source of comfort to you.
+
+Strength #5
+Gratitude -
+You are aware of the good things that happen to you, and you never take them for granted. Your friends and family members know that you are a grateful person because you always take the time to express your thanks.
+
 以上为行动
 ---
 以下为
