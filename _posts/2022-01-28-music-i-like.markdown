@@ -43,6 +43,8 @@ you belong with me
 ## 工作
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1398343651&auto=1&height=66"></iframe>
 ```
+天父
+一千年以后
 小幸运（英文版）
 引力
 怀念青春
