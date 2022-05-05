@@ -43,6 +43,16 @@ you belong with me
 ## 工作
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1398343651&auto=1&height=66"></iframe>
 ```
+一人有一个梦想
+房间
+大约在冬季
+一生何求
+千千阙歌
+桃花笑
+雨蝶
+最美的期待
+味道
+月亮的脸
 天父
 一千年以后
 小幸运（英文版）
@@ -107,6 +117,8 @@ New boy
 十年
 至少还有你
 旅行的意义
+同桌的你
+心墙
 ```
 
 ## 大学
