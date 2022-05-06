@@ -5,6 +5,12 @@ date:   2022-02-22 11:57:01 +0800
 categories: jekyll update
 ---
 
+## 命令
+```
+ffmpeg -i 输入文件名 -ss 1:02:03 -t 持续时长 -c copy 输出文件名
+robocopy、rsync
+```
+
 ## 电脑重装和换新
 1. 登记Mac地址，连接WiFi。
 1. 分区
