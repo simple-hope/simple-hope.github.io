@@ -11,7 +11,10 @@ categories: jekyll update
 
 计划：去淘宝买球盖菇菌种尝试在家种植，野外采集螺盖菇把它的孢子洒在网上买的菌包上
 
+
 # 知乎：蘑菇
+
+## [介绍一些真菌常用的网站](https://zhuanlan.zhihu.com/p/68341104)
 
 ## [菌包](https://zhuanlan.zhihu.com/p/112689325)
 
@@ -140,6 +143,258 @@ categories: jekyll update
 
 参考
 ^想了解更多关菇种知识，请参考《蘑菇记｜以科学的名义，鉴别各种常见食用菌》。 https://www.toutiao.com/i6798190353540186636/
+
+# [The Complete Guide to Growing Psilocybin Mushrooms at Home with the PF Tek](https://magic-mycology.com/complete-guide-to-grow-psilocybin-mushrooms-at-home/)
+
+![](https://magic-mycology.com/wp-content/uploads/2020/02/guidetomushroomcultivation-e1585581637249.jpg)
+
+The Complete Guide to Growing Psilocybin Mushrooms at Home with the PF Tek
+
+## Introduction
+Worldwide 全世界的 interest in psychedelic 迷幻 magic mushroom cultivation 培养 has exploded 爆炸式增长 in recent 近代 history. This maybe be due 由于 to increased media coverage 报道 of the potential benefits of psilocybin mushrooms and the subsequent 随后的 decriminalization 去刑事化 of the substance 物质 in various 各种 states 州 . Consequently 因此 , home growers 家庭种植者 and hobbyists 业余爱好者 are more common 普遍 than ever before. Commercial 商业 mushroom cultivation often requires large equiptment and plenty of space. So can you grow mushrooms at home? 
+
+Yes you can!
+
+Growing psilocybin mushrooms in your home is not only a rewarding 有益的 and fun hobby, but it’s also relatively 相对 inexpensive 便宜 and can provide a year-round 全年 supply of your favorite mushrooms.
+
+While some online guides will promote 推荐 the use of pre-made psilocybin mushroom grow kits 生长试剂盒 , we’ve found that these kits take all of the fun and learning out of cultivation; not to mention 更不用说 the rewarding experience of growing mushrooms from scratch 从头开始 .
+
+This guide therefore 因此 includes everything you need to start a psychedelic mushroom grow from scratch, which will provide you with the control to achieve 取得 more consistent 一致的 and reliable 可靠的 results than may result from a kit.  
+
+## BACKGROUND ON THIS GUIDE
+This cultivation method is based on the most common 常见 and widely 广泛 respected 受尊敬的 Robert McPherson’s eponymous PF “Psylocybe Fanaticus” Tek.
+
+Robert’s research and contribution to the community of indoor mushroom growers was revolutionary 革命性的 at the time 在当时 and has become the go-to 首选 method for beginner and professional growers alike 同样地.
+
+The PF Tek’s key innovation 创新 was to add vermiculite 蛭石 to a spawning substrate 产卵基质 that is grain 谷物 based (instead of using only grain). This allows additional cavities 空腔 for the mycelium 菌丝体 to grow and provides exceptional moisture retention 出色的水分保持力 which closer mimics 模仿 the mushrooms natural growing conditions 条件 .
+
+The PF Tek method is simple, reliable 可靠 , and cheaper than traditional methods, thus making it ideal 理想的 for beginners.
+
+![](https://magic-mycology.com/wp-content/uploads/2021/12/pftek.jpg)
+Photo credit: u/psycophreak via reddit
+
+## SPORE SYRINGES 孢子注射器
+A spore syringe is nothing more than a scientific syringe that contains a mixture 混合物 of sterilized 无菌 water and mushroom spores (think of these as mushroom seeds). The syringe is used to inoculate 接种 – or “sow” 播种 the foundation 基础 on which your mushrooms will be produced 生产 (mycelium 菌丝体).
+
+While 虽然 we recommend 建议 making your own spore syringes, beginners 初学者 will need to purchase 购买 a pre-filled syringe from a spore syringe supplier.
+
+Before doing so, however, make sure to do your research to find a trustworthy 值得信赖的 reputable 信誉良好的 supplier; misidentified stains, contamination 污染 and even syringes with little or no spores are common issues 问题 when buying from unknown sources.
+
+After your first mushrooms grow (flush) you can begin filling your own syringes. We cover 介绍 this process 过程 in our [how to make a spore syringe](https://magic-mycology.com/what-is-a-spore-syringe-and-how-to-make-one/) **post**.
+
+![](https://magic-mycology.com/wp-content/uploads/2021/12/photos-for-magic-mycology-18.png)
+what is a spore syringe
+
+## WHAT MAGIC MUSHROOM STRAIN SHOULD YOU GROW?
+There are over 250 fungal species 真菌种类 that [produce mushrooms with psychoactive compounds 精神活性化合物](https://magic-mycology.com/magic-mushroom-types/) . Unfortunately, the majority 大多数 of these species require precise 精确的 environmental growing conditions and are considered difficult to grow. With that being said 话虽如此 , as a beginner, your best chance for success will be to use a beginner-friendly strain 菌株 such as the Psilocybe cubensis 古巴裸盖菇 .
+
+The P. cubensis is a domesticated 驯化 strain and is well known for its potency 效力 and ease 容易 of growth. The P. cubensis family includes many sub-species 亚种 , some of which are more forgiving 宽容 than others. It’s recommended 建议 that you start with a beginner-friendly variant 变体 such as Golden Teacher or B+.
+
+These variants are more forgiving to less than ideal environmental conditions and are a great starting point to learn about growing psilocybin mushrooms.
+
+After your first successful grow, it’s likely you will be eager to learn about cultivating more difficult and potent 有效的 varieties like the ever-so-popular 广受欢迎的 Penis Envy strain.
+
+## THINGS YOU WILL NEED:
+1. SUPPLIES
++ Spore syringe, 10-12 cc
++ Distilled water 蒸馏水
++ vermiculite, medium to coarse grade 中等到粗品位
++ Organic brown rice flour 有机糙米粉
+1. EQUIPMENT
++ Hammer and small nail 钉子 – (not necessary if you have pre-made lids 盖子 )
++ Mixing bowl 搅拌碗
++ 12 wide-mouth 宽口 half-pint 半品脱 jars 罐 with lids (e.g. Ball or Kerr jelly 克尔果冻 or canning jars 玻璃广口瓶 )
++ Strainer 过滤器
++ Perlite 珍珠岩
++ Heavy-duty tin foil 重型锡箔
++ Power drill 电钻 with a 0.25 inch 英寸 drill bit 钻头
++ Small towel 毛巾 (or approx. 10 paper towels 纸巾 )
++ Micro-pore tape 微孔胶带
++ Clear 透明 plastic storage box, 50qt 夸脱 or smaller
++ Pressure cooker/canner 压力锅/罐头
++ Mist spray bottle 喷雾瓶
++ Measuring cup 量杯
+1. HYGIENE 卫生 SUPPLIES
++ Butane/propane torch lighter 丁烷/丙烷火炬打火机
++ Surgical mask (optional) 外科口罩（可选）
++ Surface disinfectant 表面消毒剂
++ Sterilized latex gloves 无菌乳胶手套 (optional)
++ Air sanitizer 空气消毒剂
++ Still air or glove box (optional)
++ Rubbing alcohol 外用酒精
+
+## INSTRUCTIONS 指示
+There are many different ways to grow mushrooms. In this article we are focusing on one of the easiest methods, the “PF Tek”.
+
+The PF Tek is a pretty straightforward process. Essentially you will be creating the mushroom growing substrate by mixing brown rice flour, vermiculite and water.
+
+Using this mixture you will then fill half-pint jars, cap & seal, and inject your spores through a small hole in the lid using a spore syringe.
+
+Next you wait wait 1-3 weeks for the mycelium to develop and fully colonize the substrate. Mycelium is the network of white filament which the mushroom grows from.
+
+Once the substrate has been completely colonized you will remove the mycelium “cakes” from their jars and transfer to a “fruiting chamber”, which is the stage in which mushrooms will grow from the mycelium.
+
+IMPORTANT NOTE: Mushrooms are highly susceptible to contamination from bacteria, mold, and other airborne contaminants. Therefore, it is of utmost importance that you choose a clean area to perform your mycology work. Make sure to disinfect your surfaces and equipment as well as spray an air sanitizer before working with your mushrooms. You’ll want to treat your work-space as a clean room; maintaining a sterile environment as much as possible.
+
+STEP 1: PREPARATION
+1) Prepare jars:
+
+Wipe down the insides of your jars with rubbing alcohol to disinfect using towel or cloth
+Punch four holes in each of the lids, evenly spaced around their circumferences using nail and hammer (which should be wiped with alcohol to disinfect)
+If you want to save some time and have a more professional looking setup you can purchase pre-prepared lids here. If using pre-prepared lids, you will simply need to wipe down the lids with alcohol to disinfect.
+2) Prepare substrate:
+
+
+The ratio you will be using is roughly 2/1/1 – Vermiculite, water, and brown rice flower respectively. 
+For each jar you will be making you will combine ½ cup vermiculite and ¼ cup of water to a mixing bowl. Mix thoroughly.
+Once mixed, add in a ¼ cup brown rice flour per half-pint jar, stirring the mixture to while adding. Its easiest to use your hands to ensure all three ingredients are mixed evenly. 
+3) Fill “spawn” jars:
+
+Fill your mason jars with the mixture to about a half-inch from the rim. Make sure not pack too tightly, tap the bottom of the jar lightly on a hard surface to pack down.
+Rub the exposed top half inch of the inside of the jar with rubbing alcohol to sterilize.
+To prevent contamination you will then insulate the substrate by adding a thin layer of dry vermiculite to the top of the moist substrate mixture,1/2 inch should do.
+4) Sterilization:
+
+Place the lids on your jars and tighten until snug, (not too tight)
+Use tin foil to cover the jar lids, securing the foil around the sides of the jars. This is done to prevent condensation and water from getting through the holes in the lid.
+Fill your pressure cooker with water. You will want to make sure there is enough water so that it does not run out while sterilizing. I’ve found that a gallon of water does the trick for a large pressure cooker; roughly three inches of water in the pressure cooker.
+Add a small rack to the inside of the pressure cooker to raise the jars so that they are not fully submerged in the water. extra jar lids can be effective in raising the height .
+Place all jars in the pressure cooker.
+Secure the pressure cooker lid and introduce to high heat, bringing the pressure up to 15psi.
+Reduce heat to maintain this pressure. Now we set a timer for 90 minutes.
+Once the time is up you will remove the cooker from heat and allow to cool for 12-24 hours. The jars will need to be at room temperature before we proceed with inoculation.
+STEP 2: INOCULATION
+1) Clean your work area and prepare spore syringe:
+
+Wipe down your work area completely with rubbing alcohol and spray an air sanitizer if available. Its best to find a place to work with limited air-flow as to cut down on the potential for airborne contaminants.
+Arrange all utensils so that your spawn jars, spore syringe, rubbing alcohol, gloves, paper towels, micro-pore tape and flame are all within reach.
+Next, you will glove up, and carefully remove the tinfoil from the top of the jars making sure to keep the jars level. Wipe all of the jar lids with a paper towel soaked in rubbing alcohol.
+2) Inject spores:
+
+Shake up your spore syringe so that the mushroom spores are evenly distributed.
+Remove the cap from your syringe and hold the tip of the needle over a flame. You will heat it until the metal glows red hot. Give it a second to cool and then wipe with your alcohol paper towel.
+Inject approximately ¼ cc of the spore solution per hole, with the needle touching the side of the jar. You will be injecting 1cc of the spore solution per half-pint jar.
+Wipe down your needle with alcohol wipe/paper towel after each injection. 
+Set the inoculated jar aside and cover the holes using your micro-pore tape.
+Repeat this inoculation process for each of the remaining jars.
+Set your inoculated jars in a clean, dry and dark place out of the way. 
+STEP 3: COLONIZATION
+Set your inoculated jars in a clean, dark place out of the way. While colonizing, the jars will need to be maintained at a temperature of 75-80 degrees Fahrenheit. Within seven to 14 days you will begin to notice white fluffy mycelium spreading outwards from the injection sites within the substrate.
+
+After three to four weeks the substrate should be completely colonized with beautiful white mycelium. This process can take up to six weeks depending on the strain. 
+
+IMPORTANT NOTE: Check daily for any indication of contamination, such as strange colors or smells. Get rid of any suspected contaminated jars immediately. Do this in a sealed bag outdoors away from your colonization area. If you are not sure that a jar is contaminated, its best to be safe than sorry; toss the jars as some contaminants can kill human beings.
+
+ 
+
+STEP 4: PREPARING THE GROW CHAMBER
+For this guide, we will be building what is referred to as a shotgun fruiting chamber. This is just one of many fruiting methods but is great for beginners due to its simplicity and effectiveness. After your first successful grow you may choose to experiment with other, more advanced fruiting methods.
+
+For this we will need:
+
+Clear plastic storage container – 50 qt or at least 12″ in height
+Drill and ¼-inch drill bit
+Sharpie or marker
+Ruler
+Perlite
+Strainer
+Water
+Rubbing Alcohol
+Scrap wood (optional) 
+making a shotgun fruiting chamber for magic mushrooms
+Ventilation:
+
+Before drilling our ventilation holes in the storage container we will want to use a ruler or tape measure to mark the hole placements in two-inch increments on all sides of the container (lid and bottom included). Once marked, drill your holes from the inside out using a block of scrap wood on the opposite side of the bit so as to avoid cracking (optional but recommended)
+Once drilled, wipe down the inside of the tub with a rag soaked in alcohol.
+Set the container on a rack or four stable objects to raise the bottom allowing for air-flow underneath the container. May want to set down a towel or something to catch any moisture that may leak out from the bottom.
+
+Moisture (Perlite):
+
+Fill your kitchen strainer with Perlite and run under cold water allowing it to soak up moisture and remove impurities.
+Once washed, wait for the excess moisture to stop dripping from the strainer.
+Dump the moist Perlite into our chamber and spread evenly using your hands.
+Repeat this process until you have a layer of Perlite approximately 4-5 inches deep.
+Check out the video tutorial below demonstrating this process. 
+
+
+
+STEP 5: FRUITING
+Now that we have our chamber completed, we can prepare the colonized cakes.
+
+To fruit we will first ”Birth” the colonized substrates cakes (remove them from their jars), then we will rehydrate the cakes by dunking them, and finally, we will be applying a casing layer of vermiculite to help retain moisture. Steps are as follows:
+
+Birth:
+
+Wash your hands thoroughly and put on a pair of latex gloves.
+Remove the lids from your jars.
+Turn the jar upside down, and pour out any loose dry vermiculite.
+Gently tap the open end of the jar on to your palm to loosen the cake from the jar. Continue to tap until the cake drops on to your hand. Set aside on a clean surface and repeat for each jar.
+Dunk:
+
+For this you may use any container such as a large cooking pot or Ziploc bag. The idea is to fully submerge the cakes in water for 12-24 hours. If using a pot, you will need to place something on top of the floating cakes so that they are submerged.
+
+Fill a large Ziploc bag or another container with room temperature water.
+Carefully place each cake inside.
+Dunk – place something over them if using a pot, otherwise remove air from the Ziploc bag and seal. Set aside for 12-24 hours.
+Casing Layer:
+
+Remove the cakes from the water and place them on a disinfected surface.
+Fill your mixing bowl with dry vermiculite.
+Roll your cakes one by one to fully coat them in vermiculite. This will help to keep-in the moisture.
+Transfer to Grow Chamber:
+
+Cut a tin foil square for each of your cakes, large enough for them to sit on without touching the Perlite. Alternately you may use clean jar lids if available.
+Space these evenly inside the grow chamber.
+Place your cakes on top of the foil squares and gently mist the chamber with a spray bottle containing water.
+Fan the chamber using the lid before closing.
+Conditions and Maintenance:
+
+Set your fruiting chamber in a clean well lit area, keeping it out of direct sunlight. Ideal conditions are between 70-80 degrees Fahrenheit.
+Mist the walls of your fruiting chamber with water three to six times daily to keep the humidity levels up.
+Fan the tub daily using the lid, typically after misting.
+STEP 6: HARVESTING MUSHROOMS
+Your mushrooms, or fruits, will appear as tiny white bumps before sprouting into “pins.” Pins can be though of as the baby mushrooms.
+
+5-12 days after pinning your mushrooms should be ready to harvest.
+
+How long to grow magic mushrooms?
+
+You’ll know that the mushrooms are ready when the veil underneath the cap begins to separate from the cap.
+
+Once the veil breaks the mushroom will begin to drop tiny black spores and will start to lose potency, so its best to harvest immediately before or after the veil breaks. 
+
+To harvest, you will first remove the cake from the chamber.
+
+Grab mature fruits by the stem as close to the cake as you can, then twist off gently. 
+
+Clean any remaining vermiculite from the base of the mushroom using a clean knife or other utensil.
+
+Set aside for drying.  
+
+
+Step 7: Drying and Storage
+Magic mushrooms can be stored fresh in the fridge for a short amount of time but will go bad after a week or so. That said, many growers will dehydrate their harvest which will allow them to last far longer and may be used in a variety of ways. Your goal here is to eliminate all moisture from the mushrooms leaving them “cracker dry”.
+
+The simplest and most effective method to accomplish this is to use a food dehydrator. I found my first one after searching many thrift stores for as low as $5, however, you may also buy new. The problem we’ve found with standard dehydrators is that the trays often do not provide enough space between each other, which can be a problem for your BIG fruits. We’ve included links to a couple of dehidrators we have used and reccomend.
+
+Another method of drying your fruits is to simply set them outside in a sunny area with fresh airflow. You can also set them next to a fan for 8-12 hours; this method is not as effective and is harder to get cracker dry depending on where you live. The final option is to collect and use Silica Gel packs (the ones that come in your shoebox) to absorb the moisture. Simply air dry, then place all mostly dry fruits in a Ziploc bag with a handful of these babies. 
+
+Step 8: Multiple Flushes 
+The same cakes can be reused two to three times after flushing for the first time.
+
+To promote a second and third flush you will allow the cakes to dry out for a few days after your flush. Dont worry, a slight blue or yellow tint in the mycelium is normal when drying.
+
+Repeat the dunking process but this time do not add the casing layer of vermiculite. Place the cakes back in the grow chamber, misting and fanning as before.
+
+After your second or third flush, you may start to notice contaminants on the cake. When in doubt, throw it out.
+
+ 
+
+And that’s it! Hopefully, this Tek has inspired you to expand your learning and take on more advanced bulk growing techniques!
+
+**读了又读**[：](https://wayofleaf.com/psychedelics/how-to-grow-magic-mushrooms)
+
+
 
 ## [从国外邮寄裸盖菇孢子回国是否有被扣留或违法的危险？](https://www.zhihu.com/question/22849776)
 

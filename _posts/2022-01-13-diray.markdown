@@ -19,6 +19,7 @@ categories: jekyll update
 # 长期备忘
 
 ## 待买物品
+1. 午睡折叠床
 1. 台式机机箱
 1. 蘑菇收纳盒
 1. 瑜伽垫或防潮垫
@@ -29,4 +30,5 @@ categories: jekyll update
 1. 电脑支架
 1. 碗、杯子、拖鞋
 1. 球盖菇菌包
+1. 裸盖菇素化学式项链
 1. 《How To Grow Psilocybin Mushroom》
