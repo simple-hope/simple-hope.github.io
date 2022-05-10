@@ -29,8 +29,8 @@ categories: jekyll update
 虽然，物超所值做不到，但寻求性价比还是可控的，下面是笔者近期某宝网购的回顾性总结：
 
 网上菌包售量最多的主要集中在山东临沂、江苏徐州、贵州黔东南；
-最实惠的旗舰店，3个只需13.66元，加上淘金币优惠，实际花13.41元，另外，该店菌种多数带有菇芽，容易出菇；但，售后真令人发指，就算威胁差评他也能充耳不闻，比死人还安静！不过，该店有关种植知识，描述较面。
-最多品种旗舰店，单个菌包6.59便包邮，现在是买三送一，四个一单，以平菇为例，均价即4.94元，与上述4.55元相差不大，当然，有些品种确实比较贵，但胜在齐全，可以一站式解决；至于客服，响应较快，但理解力差。
++ 最实惠的旗舰店，3个只需13.66元，加上淘金币优惠，实际花13.41元，另外，该店菌种多数带有菇芽，容易出菇；但，售后真令人发指，就算威胁差评他也能充耳不闻，比死人还安静！不过，该店有关种植知识，描述较面。
++ 最多品种旗舰店，单个菌包6.59便包邮，现在是买三送一，四个一单，以平菇为例，均价即4.94元，与上述4.55元相差不大，当然，有些品种确实比较贵，但胜在齐全，可以一站式解决；至于客服，响应较快，但理解力差。
 
 三、怎样促进蘑菇成长！
 蘑菇长得好不好，快不快，最主要是看营养、温度、湿度、光照、通风、酸碱度等因素！
@@ -239,47 +239,52 @@ IMPORTANT NOTE: Mushrooms are highly susceptible 敏感 to contamination 污染 
 ### STEP 1: PREPARATION
 1) Prepare jars:
 
-Wipe down the insides of your jars with rubbing alcohol to disinfect using towel or cloth
-Punch four holes in each of the lids, evenly spaced around their circumferences using nail and hammer (which should be wiped with alcohol to disinfect)
-If you want to save some time and have a more professional looking setup you can purchase pre-prepared lids here. If using pre-prepared lids, you will simply need to wipe down the lids with alcohol to disinfect.
++ Wipe down 擦拭 the insides of your jars with rubbing 外用 alcohol to disinfect using towel 毛巾 or cloth
++ Punch 打 four holes in each of the lids, evenly 均匀 spaced 分布 around their circumferences 圆周 using nail and hammer (which should be wiped with alcohol to disinfect)
++ If you want to save some time and have a more professional looking setup 更专业的设置 you can purchase pre-prepared lids here. If using pre-prepared lids, you will simply need to wipe down the lids with alcohol to disinfect.
+
 2) Prepare substrate:
 
++ The ratio 比例 you will be using is roughly 大约 2/1/1 – vermiculite, water, and brown rice flower respectively. 
++ For each jar you will be making you will combine ½ cup vermiculite and ¼ cup of water to a mixing bowl. Mix thoroughly.
++ Once mixed, add in a ¼ cup brown rice flour per half-pint jar, stirring 搅拌 the mixture to while adding. Its easiest to use your hands to ensure all three ingredients 成分 are mixed evenly. 
 
-The ratio you will be using is roughly 2/1/1 – Vermiculite, water, and brown rice flower respectively. 
-For each jar you will be making you will combine ½ cup vermiculite and ¼ cup of water to a mixing bowl. Mix thoroughly.
-Once mixed, add in a ¼ cup brown rice flour per half-pint jar, stirring the mixture to while adding. Its easiest to use your hands to ensure all three ingredients are mixed evenly. 
 3) Fill “spawn” jars:
 
-Fill your mason jars with the mixture to about a half-inch from the rim. Make sure not pack too tightly, tap the bottom of the jar lightly on a hard surface to pack down.
-Rub the exposed top half inch of the inside of the jar with rubbing alcohol to sterilize.
-To prevent contamination you will then insulate the substrate by adding a thin layer of dry vermiculite to the top of the moist substrate mixture,1/2 inch should do.
++ Fill your mason jars with the mixture to about a half-inch from the rim. Make sure not pack too tightly, tap the bottom of the jar lightly on a hard surface to pack down.
++ Rub the exposed top half inch of the inside of the jar with rubbing alcohol to sterilize.
++ To prevent contamination you will then insulate the substrate by adding a thin layer of dry vermiculite to the top of the moist substrate mixture,1/2 inch should do.
+
 4) Sterilization:
 
-Place the lids on your jars and tighten until snug, (not too tight)
-Use tin foil to cover the jar lids, securing the foil around the sides of the jars. This is done to prevent condensation and water from getting through the holes in the lid.
-Fill your pressure cooker with water. You will want to make sure there is enough water so that it does not run out while sterilizing. I’ve found that a gallon of water does the trick for a large pressure cooker; roughly three inches of water in the pressure cooker.
-Add a small rack to the inside of the pressure cooker to raise the jars so that they are not fully submerged in the water. extra jar lids can be effective in raising the height .
-Place all jars in the pressure cooker.
-Secure the pressure cooker lid and introduce to high heat, bringing the pressure up to 15psi.
-Reduce heat to maintain this pressure. Now we set a timer for 90 minutes.
-Once the time is up you will remove the cooker from heat and allow to cool for 12-24 hours. The jars will need to be at room temperature before we proceed with inoculation.
++ Place the lids on your jars and tighten until snug, (not too tight)
++ Use tin foil to cover the jar lids, securing the foil around the sides of the jars. This is done to prevent condensation and water from getting through the holes in the lid.
++ Fill your pressure cooker with water. You will want to make sure there is enough water so that it does not run out while sterilizing. I’ve found that a gallon of water does the trick for a large pressure cooker; roughly three inches of water in the pressure cooker.
++ Add a small rack to the inside of the pressure cooker to raise the jars so that they are not fully submerged in the water. extra jar lids can be effective in raising the height .
++ Place all jars in the pressure cooker.
++ Secure the pressure cooker lid and introduce to high heat, bringing the pressure up to 15psi.
++ Reduce heat to maintain this pressure. Now we set a timer for 90 minutes.
++ Once the time is up you will remove the cooker from heat and allow to cool for 12-24 hours. The jars will need to be at room temperature before we proceed with inoculation.
+
 STEP 2: INOCULATION
+
 1) Clean your work area and prepare spore syringe:
 
-Wipe down your work area completely with rubbing alcohol and spray an air sanitizer if available. Its best to find a place to work with limited air-flow as to cut down on the potential for airborne contaminants.
-Arrange all utensils so that your spawn jars, spore syringe, rubbing alcohol, gloves, paper towels, micro-pore tape and flame are all within reach.
-Next, you will glove up, and carefully remove the tinfoil from the top of the jars making sure to keep the jars level. Wipe all of the jar lids with a paper towel soaked in rubbing alcohol.
++ Wipe down your work area completely with rubbing alcohol and spray an air sanitizer if available. Its best to find a place to work with limited air-flow as to cut down on the potential for airborne contaminants.
++ Arrange all utensils so that your spawn jars, spore syringe, rubbing alcohol, gloves, paper towels, micro-pore tape and flame are all within reach.
++ Next, you will glove up, and carefully remove the tinfoil from the top of the jars making sure to keep the jars level. Wipe all of the jar lids with a paper towel soaked in rubbing alcohol.
+
 2) Inject spores:
 
-Shake up your spore syringe so that the mushroom spores are evenly distributed.
-Remove the cap from your syringe and hold the tip of the needle over a flame. You will heat it until the metal glows red hot. Give it a second to cool and then wipe with your alcohol paper towel.
-Inject approximately ¼ cc of the spore solution per hole, with the needle touching the side of the jar. You will be injecting 1cc of the spore solution per half-pint jar.
-Wipe down your needle with alcohol wipe/paper towel after each injection. 
-Set the inoculated jar aside and cover the holes using your micro-pore tape.
-Repeat this inoculation process for each of the remaining jars.
-Set your inoculated jars in a clean, dry and dark place out of the way. 
-STEP 3: COLONIZATION
-Set your inoculated jars in a clean, dark place out of the way. While colonizing, the jars will need to be maintained at a temperature of 75-80 degrees Fahrenheit. Within seven to 14 days you will begin to notice white fluffy mycelium spreading outwards from the injection sites within the substrate.
++ Shake up your spore syringe so that the mushroom spores are evenly distributed.
++ Remove the cap from your syringe and hold the tip of the needle over a flame. You will heat it until the metal glows red hot. Give it a second to cool and then wipe with your alcohol paper towel.
++ Inject approximately ¼ cc of the spore solution per hole, with the needle touching the side of the jar. You will be injecting 1cc of the spore solution per half-pint jar.
++ Wipe down your needle with alcohol wipe/paper towel after each injection. 
++ Set the inoculated jar aside and cover the holes using your micro-pore tape.
++ Repeat this inoculation process for each of the remaining jars.
++ Set your inoculated jars in a clean, dry and dark place out of the way. 
++ STEP 3: COLONIZATION
++ Set your inoculated jars in a clean, dark place out of the way. While colonizing, the jars will need to be maintained at a temperature of 75-80 degrees Fahrenheit. Within seven to 14 days you will begin to notice white fluffy mycelium spreading outwards from the injection sites within the substrate.
 
 After three to four weeks the substrate should be completely colonized with beautiful white mycelium. This process can take up to six weeks depending on the strain. 
 
