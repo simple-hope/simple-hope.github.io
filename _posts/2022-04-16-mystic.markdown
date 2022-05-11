@@ -9,7 +9,7 @@ categories: jekyll update
 
 目标：我想在80岁后随身携带 Strophariaceae 的下属菇，并在死亡前至少尝试2次服用它里面的30毫克有效成分。
 
-计划：去淘宝买球盖菇菌种尝试在家种植，野外采集螺盖菇把它的孢子洒在网上买的菌包上
+计划：去淘宝买球盖菇菌种尝试在家种植，野外采集裸盖菇把它的孢子洒在网上买的菌包上
 
 
 # 知乎：蘑菇
@@ -249,17 +249,18 @@ IMPORTANT NOTE: Mushrooms are highly susceptible 敏感 to contamination 污染 
 + For each jar you will be making you will combine ½ cup vermiculite and ¼ cup of water to a mixing bowl. Mix thoroughly.
 + Once mixed, add in a ¼ cup brown rice flour per half-pint jar, stirring 搅拌 the mixture to while adding. Its easiest to use your hands to ensure all three ingredients 成分 are mixed evenly. 
 
-3) Fill “spawn” jars:
+3) Fill “spawn 生成” jars:
 
-+ Fill your mason jars with the mixture to about a half-inch from the rim. Make sure not pack too tightly, tap the bottom of the jar lightly on a hard surface to pack down.
-+ Rub the exposed top half inch of the inside of the jar with rubbing alcohol to sterilize.
-+ To prevent contamination you will then insulate the substrate by adding a thin layer of dry vermiculite to the top of the moist substrate mixture,1/2 inch should do.
++ Fill your mason 梅森 jars with the mixture to about a half-inch from the rim 边缘 . Make sure not pack 包装 too tightly, tap 拍打 the bottom of the jar lightly on a hard surface 坚硬的表面 to pack down.
++ Rub 擦拭 the exposed 暴露的 top half inch of the inside of the jar with rubbing alcohol to sterilize 消毒 .
++ To prevent contamination you will then insulate 隔离 the substrate by adding a thin layer 薄层 of dry 干的 vermiculite to the top of the moist 潮湿的 substrate mixture,1/2 inch should do 应该可以 .
 
-4) Sterilization:
+4) Sterilization 灭菌 :
 
-+ Place the lids on your jars and tighten until snug, (not too tight)
-+ Use tin foil to cover the jar lids, securing the foil around the sides of the jars. This is done to prevent condensation and water from getting through the holes in the lid.
-+ Fill your pressure cooker with water. You will want to make sure there is enough water so that it does not run out while sterilizing. I’ve found that a gallon of water does the trick for a large pressure cooker; roughly three inches of water in the pressure cooker.
++ Place the lids on your jars and tighten 拧紧 until snug 紧贴 , (not too tight)
++ Use tin foil 锡箔纸 to cover the jar lids, securing 固定 the foil around the sides 侧面 of the jars. This is done to prevent condensation 冷凝 and water from getting through the holes in the lid.
++ Fill your pressure cooker 压力锅 with water. You will want to make sure there is enough water so that it does not run out while sterilizing 消毒 . I’ve found that a gallon 加仑 of water does the trick 诀窍 for a large pressure cooker; roughly three inches of water in the pressure cooker.
+**读到这里**
 + Add a small rack to the inside of the pressure cooker to raise the jars so that they are not fully submerged in the water. extra jar lids can be effective in raising the height .
 + Place all jars in the pressure cooker.
 + Secure the pressure cooker lid and introduce to high heat, bringing the pressure up to 15psi.
@@ -1628,7 +1629,24 @@ LSD旅行和宇航员的太空旅行在许多方面有可比性。这两个冒�
 对它们精神价值的贬低。此刻且让我们来思考一下那些纯粹的艺术手法
 ——因为这些手法，具有幻象诱发力的作品才被创造出来。
 
-读到p83跳过
+p89 到目前为止，我只是讲述了具有幻象诱发力的材料，以及现代科技
+对它们精神价值的贬低。此刻且让我们来思考一下那些纯粹的艺术手法
+——因为这些手法，具有幻象诱发力的作品才被创造出来。
+
+然而，在其他历史时期，人们发现自然（包括人性的许多层面）具
+有自发的“他性”，因而感到一种深深的满足。这种“他性”的经验，则以
+宗教、艺术或科学的形式予以抒发。然而在中世纪，与康斯特布尔和生
+态学，与鸟类观测和依洛西斯[81]，与显微镜和狄厄尼索斯祭献仪式、
+日本俳歌对等的，又是何物？我猜，我们也许可以在两个极端中找到答
+案，一是农神节大规模的狂欢，二是中世纪的神秘主义经验。忏悔节、
+五朔节、狂欢节，凡此等节日，都允许人们直接感知到掩藏在人的自我
+和社会身份之下的动物“他性”。全神贯注的冥想，则揭示出神圣的“非
+我”那更具他性的“他性”。在这两个极端之间，则是幻象经验和具有幻
+象诱发力的艺术品——借助后者，人们试图重新找回并重建幻象经验，
+相应的艺术家则包括：珠宝匠、彩色玻璃工匠、挂毯的编织匠、画家、
+诗人和音乐家。
+
+**读到p94**
 
 ## 附录一
 

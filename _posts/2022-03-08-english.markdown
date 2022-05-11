@@ -5,6 +5,9 @@ date:   2022-03-08 09:25:26 +0800
 categories: jekyll update
 ---
 
+## 大局
+He lost sight of the bigger picture.
+
 ## love
 when I told you that I missed you, I didn't mean to make you feel pressured.
 
@@ -91,6 +94,14 @@ I always try and mask my pain in front of beautiful women, 'cause I thing it mak
 No one is responsible for the family they are born into. All that matters is who they decide to be, and you've decided to be brave and big-hearted.
 
 ## fear
+No matter how much we believe in ourselves, that never goes away. Not fully. Even now, I think I'm not afraid of anything. And then, something new and ugly rears its head and chasesme right back down the rabbit hole. But once we catch ourselves we have to jump right back out there.
+
+I'm not afraid of enything. I just finally feel like the world is good. And I so badly want it to stay that way, even if it's just for a little while.
+
+I was afraid to make wave 起冲突
+
+Fear can create monsters where none existed before.
+
 It was awful, and I just keep playing it over and over again in my head.
 
 Fear makes us do a lot of things that we shouldn't.
@@ -193,6 +204,8 @@ All powerful people have setbacks.
 Usually, one person doesn't have the solution. But 100 people with 1% solution - That'll get it done.
 Pieces solving a puzzle. 众人拾柴火焰高
 
+The fuse was lit. 导火索已经引燃
+
 ## life
 Life is a game of chance.（碰运气）
 
@@ -204,13 +217,7 @@ The world is full of wonder.
 
 Positive psychology can help you figure out where your true path is supposed to be.
 
-## others
-Among the scenes which are deeply impressed on my mind, none exceed in sublimity the primeval forests underfaced by the hand of man.
-
-I'd like to work in the shadow.
-
-My rank is too low to avoid interrupting, but high enough to mastering time.
-
+## 纪录片
 This astonishing new way of seeing the night offers a whole new understanding of lion family life.
 
 Exploring is clearly exhausting work. But I give it everything I'm got to keep my family safe in the risk.
@@ -242,3 +249,50 @@ The coming days and nights test him more than ever before.
 He'll need to summon the strength to defend his river.
 
 They'll feed on the corpses（巢穴） in the darkness of their burrows（尸体） in one of nature's most sinister（险恶）, but magical midnight feasts.
+
+## others
+An agent of liberty. 自由的代表
+
+How to always reach for the biggest gun. 达成最强有力的手段
+
+We are all children in the eyes of god!
+
+Next time I will keep a level head.
+
+Everything is as it was.
+
+Violence is the most basic human emotion and should only be a last resort 最后一招 should communication fail.
+
+Lex was so hyper-focused on 心思全放在 Superman.
+
+I had no idea your brother's history with Mercy went back this far 与Mercy有这么多的过往
+
+She kind of took me under her wing. 可以说她对我很照顾
+
+Among the scenes which are deeply impressed on my mind, none exceed in sublimity the primeval forests underfaced by the hand of man.
+
+I'd like to work in the shadow.
+
+My rank is too low to avoid interrupting, but high enough to mastering time.
+
+A leader who caves 屈服 to fear is no leader at all.
+
+My mother goes on 接着 to name 报出 five more shell companies owned by M.
+
+The impact 影响 has been far-reaching and profound 意义深远的
+
+Never charge 冲锋 without a plan.
+
+There's a fresh wave of anti-alien sentiment 情感
+
+Let him who desires peace prepare for war.
+
+What we choose to wear tells a story about who we are. Whether you wear black and leather or pastels and silk, you're creating an inner version of yourself whether you realize it or not.
+
+your face was a mask of enigma 费解的事物、谜团、英格玛密码机 as usual.
+
+I've been fighting on the front line for a lont time now.
+
+Those days are behind me. I made a vow 誓言 to live a peaceful life
+
+Nick Fury gave me this badge. When he did, I swore an oath 宣誓 , we all did. To serve when everything else fails, to be humanity's last line of defence
