@@ -59,6 +59,30 @@ count on me
 to say goodbye to you
 never grow old
 dying in the sun
+seasoned eyes were beaming
+how long will i love you
+skinny love
+read all about it
+i was a fool
+no more night with you
+your love is right over me
+safe and sound
+Hello
+soldier
+outside
+burning
+Stronger (What Doesn't Kill You)|Kelly Clarkson
+Firework|Katy Perry
+stuttering
+rather be
+real love
+diamonds
+if i die young
+die young
+wake
+here|Alessia Cara
+Forgettable|Project 46/Olivia
+love myself|Hailee Steinfeld
 
 ```
 
@@ -216,7 +240,6 @@ Lemon Tree|Fool's Garden
 |Everybody|Ingrid Michaelson|
 |Send It|Austin Mahone/Rich Homie Quan|
 |Move Your Body|Alan Walker/Sia|
-|Forgettable|Project 46/Olivia|
 |Let Me Love You|DJ Snake/Justin Bieber|
 |Run Away|Megan & Liz|
 |Sign|DEAMN|
@@ -224,7 +247,6 @@ Lemon Tree|Fool's Garden
 |Counting Stars|Alex Goot/Chrissy Costanza/Kurt Hugo S|
 |素颜(英文版)|阿摩司|
 |Shape of You|J.Fla|
-|Stronger (What Doesn't Kill You)|Kelly Clarkson|
 |TiK ToK|Kesha|
 |Complicated|Dimitri Vegas & Like Mike/David Guett|
 |me and you|何官锭AL|
@@ -234,7 +256,6 @@ Lemon Tree|Fool's Garden
 |有何不可(English Ver.)|KBShinya/A路人|
 |Moonlight Shadow|Dana Winner|
 |Free Loop|Daniel Powter|
-|2 Soon|Jon Young|
 |Nothing's Gonna Change My Love For You|Westlife|
 |Scarborough Fair|Sarah Brightman|
 |Pumped Up|Klingande|
@@ -247,7 +268,6 @@ Lemon Tree|Fool's Garden
 |Dream It Possible|Delacey|
 |Attention|Charlie Puth|
 |Marry You|Bruno Mars|
-|Firework|Katy Perry|
 |The Ocean (Radio Edit)|Mike Perry / SH|
 |call me maybe|Carly Rae Jepsen|
 |time in a bottle|Jim Croce|
