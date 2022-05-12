@@ -38,6 +38,30 @@ wildest dreams
 you belong with me
 ```
 
+# 合集分类
+
+## 网易云音乐“欧美女声”十秒爱上系列①
+```
+Run Away
+So:Lo
+Faded|Alan Walker/I
+Try|Colbie Caillat
+Fo It Again
+Like I'm Gonna Lose You
+just give me a reason
+ready for the storm
+work(remix)
+riverside
+hurricane
+a little bit
+1965
+count on me
+to say goodbye to you
+never grow old
+dying in the sun
+
+```
+
 # 时间分类
 
 ## 工作
@@ -163,7 +187,6 @@ Let It Go|Idina Menzel
 世界上另一个我|莫宁
 Bye Bye Bye|Lovestoned
 Locked Away|OutaMatic/M
-Faded|Alan Walker/I
 Something Just Like This|Anthony Key
 Be What You Wanna Be|Darin
 Far Away From Home|Groove Cove
@@ -257,7 +280,6 @@ Lemon Tree|Fool's Garden
 |Nothing'S Gonna Change My Love|Dana Winner|
 |The Monster|Eminem / Rihanna|
 |Take Me To Your Heart|Michael Learns|
-|Try|Colbie Caillat|
 |Good Things|Beatrich / Radis|
 |Firefly|A*Teens|
 
