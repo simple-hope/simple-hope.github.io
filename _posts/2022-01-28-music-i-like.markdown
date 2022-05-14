@@ -83,6 +83,45 @@ wake
 here|Alessia Cara
 Forgettable|Project 46/Olivia
 love myself|Hailee Steinfeld
+we wanna (radio edit)
+promise for christmas
+without you
+my privacy
+i wanted you
+i am|Leona Lewis
+hold my hand
+big big world
+halo
+think again
+oceanside
+burn
+Everybody|Ingrid Michaelson
+i hate u, i love u
+Let It Go|Idina Menzel
+heart in my hands
+flesh without blood
+cool for the summer
+if i were a boy
+titanium
+love me harder
+teenage dream
+East of Eden|Zella Day
+fight song
+lost and found
+Because of You|Kelly Clarkson
+almost lover
+Love Me Like You
+burning out
+I See the Light|Mandy Moore / Za
+here for you
+back to you
+no ready to say goodbye
+wit it this christmas
+time machine
+today's the day
+on my mind
+all about us
+I Really Like You|Carly Rae Je
 
 ```
 
@@ -203,7 +242,6 @@ I wanted you|Ina Wroldsen
 I Just Wanna Run|Kait Weston
 Nothing on you|邓福如 AFÜ
 Proud Of You|冯曦妤
-Let It Go|Idina Menzel
 ```
 
 ### 萃取
@@ -222,7 +260,6 @@ What Makes You Beautiful|Marc Sean
 ### 第三
 ```
 Shutterbug|Glenna
-I Really Like You|Carly Rae Je
 Let Her Go|Jasmine Tho
 I Knew You Were Trouble|MADILYN
 Try Everything|Shakira
@@ -237,7 +274,6 @@ Lemon Tree|Fool's Garden
 |NAME|SINGER|
 |----|----|
 |Where Are You Now|Zayion McCall|
-|Everybody|Ingrid Michaelson|
 |Send It|Austin Mahone/Rich Homie Quan|
 |Move Your Body|Alan Walker/Sia|
 |Let Me Love You|DJ Snake/Justin Bieber|
@@ -271,9 +307,7 @@ Lemon Tree|Fool's Garden
 |The Ocean (Radio Edit)|Mike Perry / SH|
 |call me maybe|Carly Rae Jepsen|
 |time in a bottle|Jim Croce|
-|East of Eden|Zella Day|
 |Pop Danthology 2012|DJ Daniel Kim|
-|I See the Light|Mandy Moore / Za|
 |Moshi Moshi|Poppy|
 |Telescop|Tim Legend / Tr|
 |Superstar|Beatrich|
@@ -286,7 +320,6 @@ Lemon Tree|Fool's Garden
 |Starships|Nicki Minaj|
 |What Are Words|Chris Medina|
 |Good Time|Owl City / Carly|
-|Because of You|Kelly Clarkson|
 |I Really Like You|Carly Rae Jepsen|
 |On My Own|Ashes Remain|
 |Centuries|Fall Out Boy|
