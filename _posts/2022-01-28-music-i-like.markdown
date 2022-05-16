@@ -50,7 +50,7 @@ Fo It Again
 Like I'm Gonna Lose You
 just give me a reason
 ready for the storm
-work(remix)
+work (remix)
 riverside
 hurricane
 a little bit
@@ -122,7 +122,14 @@ today's the day
 on my mind
 all about us
 I Really Like You|Carly Rae Je
-
+someone like you
+young and beautiful
+mine (Illenium Remix)
+lights
+Love The Way You Lie|Eminem/Rihanna
+heroes (we could be)
+Love Me Like You Do|Ellie Goulding
+flashlight (From "Pitch Perfect 2" Soundtrack)
 ```
 
 # 时间分类
@@ -149,6 +156,7 @@ I Really Like You|Carly Rae Je
 信仰
 来迟
 奔赴星空
+always online
 Viva la vida
 有一种爱叫做放手
 New boy
@@ -287,7 +295,6 @@ Lemon Tree|Fool's Garden
 |Complicated|Dimitri Vegas & Like Mike/David Guett|
 |me and you|何官锭AL|
 |Sing Me to Sleep|Alan Walker/Iselin Solheim|
-|Love The Way You Lie|Eminem/Rihanna|
 |勇气(英文版)|阿摩司|
 |有何不可(English Ver.)|KBShinya/A路人|
 |Moonlight Shadow|Dana Winner|
@@ -316,7 +323,6 @@ Lemon Tree|Fool's Garden
 |Please Don't Go|Joel Adams|
 |Clsr (Aash Mehta Flip)|The Chainsmok|
 |Vagrant|Feint / Veela|
-|Love Me Like You Do|Ellie Goulding|
 |Starships|Nicki Minaj|
 |What Are Words|Chris Medina|
 |Good Time|Owl City / Carly|
