@@ -234,7 +234,7 @@ Next you wait wait 1-3 weeks for the mycelium to develop and fully colonize 定�
 
 Once the substrate has been completely colonized 定植 you will remove the mycelium “cakes” from their jars and transfer to a “fruiting chamber” 结果室 , which is the stage 阶段 in which mushrooms will grow from the mycelium.
 
-IMPORTANT NOTE: Mushrooms are highly susceptible 敏感 to contamination 污染 from bacteria 细菌 , mold 霉菌 , and other airborne contaminants 空气污染物 . Therefore, it is of utmost 至关 importance that you choose a clean area to perform your mycology 真菌学 work. Make sure to disinfect 消毒 your surfaces and equipment as well as 并 spray 喷洒 an air sanitizer before working with your mushrooms. You’ll want to treat your work-space as a clean room 洁净室 ; maintaining 保持 a sterile 无菌 environment as much as possible.
+IMPORTANT NOTE: Mushrooms are highly susceptible 敏感 to contamination from bacteria 细菌 , mold 霉菌 , and other airborne contaminants 空气污染物 . Therefore, it is of utmost 至关 importance that you choose a clean area to perform your mycology 真菌学 work. Make sure to disinfect 消毒 your surfaces and equipment as well as 并 spray 喷洒 an air sanitizer before working with your mushrooms. You’ll want to treat your work-space as a clean room 洁净室 ; maintaining 保持 a sterile 无菌 environment as much as possible.
 
 ### STEP 1: PREPARATION
 1) Prepare jars:
@@ -278,41 +278,44 @@ STEP 2: INOCULATION 接种
 + Shake 摇动 up your spore syringe so that the mushroom spores are evenly distributed.
 + Remove the cap 盖子 from your syringe and hold the tip 尖 of the needle 针 over a flame. You will heat it until the metal glows red hot. Give it a second to cool and then wipe with your alcohol paper towel.
 + Inject approximately 大约 ¼ cc of the spore solution 溶液 per hole, with the needle touching the side 侧面 of the jar. You will be injecting 1cc of the spore solution per half-pint jar. 每半品脱罐注入1cc孢子溶液
-+ Wipe down your needle with alcohol wipe/paper towel after each injection. 
++ Wipe down your needle with alcohol wipe/paper towel after each injection 注射. 
 + Set 放 the inoculated 接种的 jar aside 一旁 and cover the holes using your micro-pore tape.
 + Repeat this inoculation process for each of the remaining 剩余 jars.
 + Set your inoculated jars in a clean, dry and dark place out of the way. 
 **读到这里**
 
 STEP 3: COLONIZATION 移植
-+ Set your inoculated jars in a clean, dark place out of the way. While colonizing, the jars will need to be maintained at a temperature of 75-80 degrees Fahrenheit. Within seven to 14 days you will begin to notice white fluffy mycelium spreading outwards from the injection sites within the substrate.
++ Set your inoculated jars in a clean, dark place out of the way 不碍事 . While colonizing 定植 , the jars will need to be maintained 保持 at a temperature of 75-80 degrees Fahrenheit 华氏度 . Within seven to 14 days you will begin to notice white fluffy 蓬松的 mycelium spreading outwards 向外 from the injection sites 部位 within the substrate.
 
 After three to four weeks the substrate should be completely colonized with beautiful white mycelium. This process can take up to six weeks depending on the strain. 
 
-IMPORTANT NOTE: Check daily for any indication of contamination, such as strange colors or smells. Get rid of any suspected contaminated jars immediately. Do this in a sealed bag outdoors away from your colonization area. If you are not sure that a jar is contaminated, its best to be safe than sorry; toss the jars as some contaminants can kill human beings.
+IMPORTANT NOTE: Check daily for any indication 迹象 of contamination, such as strange 奇怪的 colors or smells. Get rid of any suspected 可疑的 contaminated 受污染的 jars immediately. Do this in a sealed 密封的 bag outdoors away from your colonization area. If you are not sure that a jar is contaminated, its best to be safe than sorry; toss the jars as some contaminants can kill human beings.
 
- 
-
-STEP 4: PREPARING THE GROW CHAMBER
-For this guide, we will be building what is referred to as a shotgun fruiting chamber. This is just one of many fruiting methods but is great for beginners due to its simplicity and effectiveness. After your first successful grow you may choose to experiment with other, more advanced fruiting methods.
+STEP 4: PREPARING THE GROW CHAMBER 生长室
+For this guide, we will be building what is referred to 所谓的 as a shotgun 霰弹枪 fruiting chamber. This is just one of many fruiting methods but is great for beginners due to its simplicity 简单性 and effectiveness 有效性 . After your first successful grow you may choose to experiment with other, more advanced fruiting methods.
 
 For this we will need:
 
-Clear plastic storage container – 50 qt or at least 12″ in height
-Drill and ¼-inch drill bit
-Sharpie or marker
+Clear plastic storage container – 50 qt 夸脱 or at least 12″ 英寸 in height
+drill and ¼-inch drill bit
+Sharpie 美国三福记号笔 or marker 记号笔
 Ruler
-Perlite
-Strainer
+perlite 珍珠岩
+strainer 过滤器
 Water
 Rubbing Alcohol
-Scrap wood (optional) 
-making a shotgun fruiting chamber for magic mushrooms
-Ventilation:
+scrap 废弃的 wood (optional) 
 
-Before drilling our ventilation holes in the storage container we will want to use a ruler or tape measure to mark the hole placements in two-inch increments on all sides of the container (lid and bottom included). Once marked, drill your holes from the inside out using a block of scrap wood on the opposite side of the bit so as to avoid cracking (optional but recommended)
-Once drilled, wipe down the inside of the tub with a rag soaked in alcohol.
-Set the container on a rack or four stable objects to raise the bottom allowing for air-flow underneath the container. May want to set down a towel or something to catch any moisture that may leak out from the bottom.
+![](https://magic-mycology.com/wp-content/uploads/2020/02/sfc.jpg)
+making a shotgun fruiting chamber for magic mushrooms
+
+ventilation 通风 :
+
+Before drilling 钻 our ventilation holes in the storage container we will want to use a ruler or tape measure 卷尺 to mark the hole placements in two-inch increments 2英寸的增量 on all sides of the container (lid and bottom included). Once marked, drill your holes from the inside out 从内到外 using a block of scrap wood on the opposite side 对面 of the bit so as to avoid cracking 开裂 (optional but recommended 建议 )
+
+Once drilled, wipe down the inside of the tub 缸 with a rag 抹布 soaked in alcohol.
+
+Set the container on a rack or four stable objects to raise the bottom allowing for air-flow underneath 下方 the container. May want to set down 放下 a towel or something to catch any moisture 水分 that may leak out 泄漏 from the bottom.
 
 Moisture (Perlite):
 
@@ -1045,10 +1048,10 @@ p100 到目前为止，我所谈及的，都是至福的幻象经验，以及其
 1. 在化学的意义上，肾上腺黄素被麦司卡林和麦角酸代替；
 1. 在心理学的意义上，紧张症和不真实感被高度真实的幻象、最终被神秘主义的经验所代替。**
 
+# 全世界500多种蘑菇的彩色图鉴
 
+## p84、p141、p146
 
-# 《蘑菇博物馆》读书笔记
+# 蘑菇博物馆
 
-## 前言
-
-本书不是一本野外指南
+## p53 毒蝇鹅膏
