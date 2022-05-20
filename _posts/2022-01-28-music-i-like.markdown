@@ -14,7 +14,7 @@ categories: jekyll update
 |Proud Of You|冯曦妤|
 |How Far I'll Go（海洋之心）||
 |小幸运（英文版）||
-|If I Stay|肖恩Shaun G||
+|If I Stay|肖恩Shaun G|
 |素颜(英文版)|阿摩司|
 |勇气(英文版)|阿摩司|
 |有何不可(English Ver.)|KBShinya/A路人|
@@ -43,7 +43,6 @@ Be What You Wanna Be
 爱的回归线
 青春修炼手册
 爱如潮水
-let it go
 ```
 
 ## 毕业
@@ -359,3 +358,21 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 |Ya Not Ready|Sean Paul|
 |死神少女|心华,初音ミク|
 
+# 歌曲在歌名后加上不同的注释/后缀
+1. XXX(Radio Edit)：指原曲被制作成适合电台播放的歌曲，一般这种歌曲主体体现比较快。
+2. XXX(Club Edit)：指原曲被酒吧或者俱乐部编辑后的音乐。
+3. XXX(yy Edit)：指原曲被yy(制作人)重新编辑发行。
+4. XXX (Remix)：指原曲的重新混音版本。
+5. XXX(yy Remix)：指原歌被yy(制作人)重新混音。
+6. XXX(bootleg)&(unofficial)：指未授权的Remix版本。
+7. XXX (Original Mix)：即这首歌的原始版本，相对“Remix”而言。
+8. XXX(sss Remix Ver.)：指某首歌以sss风格重新混音的“版本”。和“sss Remix”同义。
+9. XXX (Remix ver.)：某首歌的重新混音的“版本”。和“Remix”同义。“ver”为“Version”的缩写。
+10. XXX(EP)：全称“Extended Play“，迷你专辑，指专辑内曲目较少。一般在专辑名后面添加EP。
+11. XXX(Bonus Track)：指CD或专辑里的另附曲目。
+12. XXXfeat.SINGER：“feat”后面一般为歌手，“feat”后面的歌手与歌曲作者合作但不是主角,作为客串演出。
+13. intro：意为一首专辑中的前奏曲目，一般歌名写为intro。
+14. XXX (Inst.)&XXX(off vocal)：指XXX歌曲的无人声演奏版(伴奏)。Inst.为Instruments的缩写。
+15. XX(Live) - live&XX(Live)：歌曲在音乐会或演唱会录制的现场版本。
+16. XXX(DEMO)：指一首歌的小样，不会正式发行。
+17. XXX(-Clean)：净版或者说是和谐版，对应的XXX（-Explicit）为所谓的脏版。比如This Summer’s Gonna Hurt Like a Motherf*cker
