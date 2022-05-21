@@ -60,6 +60,8 @@ Be What You Wanna Be
 ## 工作
 
 ```
+可惜我是水瓶座
+学猫叫
 always online
 Viva la vida
 New boy
@@ -318,7 +320,6 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 |The Ocean (Radio Edit)|Mike Perry / SH|
 |call me maybe|Carly Rae Jepsen|
 |time in a bottle|Jim Croce|
-|Pop Danthology 2012|DJ Daniel Kim|
 |Moshi Moshi|Poppy|
 |Telescop|Tim Legend / Tr|
 |Superstar|Beatrich|
@@ -362,7 +363,7 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 1. XXX(Radio Edit)：指原曲被制作成适合电台播放的歌曲，一般这种歌曲主体体现比较快。
 2. XXX(Club Edit)：指原曲被酒吧或者俱乐部编辑后的音乐。
 3. XXX(yy Edit)：指原曲被yy(制作人)重新编辑发行。
-4. XXX (Remix)：指原曲的重新混音版本。
+4. XXX (Remix)：指原曲的**重新混音**版本。
 5. XXX(yy Remix)：指原歌被yy(制作人)重新混音。
 6. XXX(bootleg)&(unofficial)：指未授权的Remix版本。
 7. XXX (Original Mix)：即这首歌的原始版本，相对“Remix”而言。
@@ -373,6 +374,6 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 12. XXXfeat.SINGER：“feat”后面一般为歌手，“feat”后面的歌手与歌曲作者合作但不是主角,作为客串演出。
 13. intro：意为一首专辑中的前奏曲目，一般歌名写为intro。
 14. XXX (Inst.)&XXX(off vocal)：指XXX歌曲的无人声演奏版(伴奏)。Inst.为Instruments的缩写。
-15. XX(Live) - live&XX(Live)：歌曲在音乐会或演唱会录制的现场版本。
+15. XX(Live)** - live&XX(Live)：歌曲在音乐会或演唱会录制的现场版本。**
 16. XXX(DEMO)：指一首歌的小样，不会正式发行。
 17. XXX(-Clean)：净版或者说是和谐版，对应的XXX（-Explicit）为所谓的脏版。比如This Summer’s Gonna Hurt Like a Motherf*cker
