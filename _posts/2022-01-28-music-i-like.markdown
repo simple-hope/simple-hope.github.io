@@ -165,7 +165,6 @@ you belong with me
 
 ## 网易云音乐“欧美女声”十秒爱上系列①
 ```
-Run Away
 So:Lo
 do It Again
 Like I'm Gonna Lose You
@@ -247,6 +246,7 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 
 |NAME|SINGER|
 |----|----|
+|Run Away|Megan & Liz|
 |Faded|Alan Walker/I|
 |Try|Colbie Caillat|
 |Stronger (What Doesn't Kill You)|Kelly Clarkson|
@@ -294,13 +294,13 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 |Send It|Austin Mahone/Rich Homie Quan|
 |Move Your Body|Alan Walker/Sia|
 |Let Me Love You|DJ Snake/Justin Bieber|
-|Run Away|Megan & Liz|
 |Sign|DEAMN|
 |Lighters|Eminem/Royce Da 5'9"/Bruno Mars|
 |Counting Stars|Alex Goot/Chrissy Costanza/Kurt Hugo S|
 |Shape of You|J.Fla|
 |TiK ToK|Kesha|
 |Complicated|Dimitri Vegas & Like Mike/David Guett|
+|Complicated|Avril Lavigne|
 |me and you|何官锭AL|
 |Sing Me to Sleep|Alan Walker/Iselin Solheim|
 |Moonlight Shadow|Dana Winner|

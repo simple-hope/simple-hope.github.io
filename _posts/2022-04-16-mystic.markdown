@@ -251,7 +251,7 @@ IMPORTANT NOTE: Mushrooms are highly susceptible 敏感 to contamination from ba
 
 3) Fill “spawn 生成” jars:
 
-+ Fill your mason 梅森 jars with the mixture to about a half-inch from the rim 边缘 . Make sure not pack 包装 too tightly, tap 拍打 the bottom of the jar lightly on a hard surface 坚硬的表面 to pack down.
++ Fill your mason 梅森 jars with the mixture to about a half-inch from the rim 边缘 . Make sure not pack 包装 too tightly, tap 拍打 the bottom of the jar lightly on a hard 坚硬的 surface 表面 to pack down.
 + Rub 擦拭 the exposed 暴露的 top half inch of the inside of the jar with rubbing alcohol to sterilize 消毒 .
 + To prevent contamination you will then insulate 隔离 the substrate by adding a thin layer 薄层 of dry 干的 vermiculite to the top of the moist 潮湿的 substrate mixture,1/2 inch should do 应该可以 .
 
@@ -332,34 +332,34 @@ Now that we have our chamber completed, we can prepare the colonized cakes.
 To fruit we will first ”Birth” the colonized substrates 基质 cakes (remove them from their jars), then we will rehydrate 补充水分 the cakes by dunking 浸渍 them, and finally, we will be applying a casing layer of vermiculite to help retain 保持 moisture. Steps are as follows:
 
 Birth:
++ Wash your hands thoroughly 彻底 and put on a pair of latex gloves.
++ Remove the lids from your jars.
++ Turn the jar upside down 倒置 , and pour out any loose 松散的 dry vermiculite.
++ gently 轻轻地 tap the open end 开口端 of the jar on to your palm 手掌 to loosen the cake from the jar. Continue to tap until the cake drops on to your hand. Set aside on 放在 a clean surface and repeat for each jar.
 
-Wash your hands thoroughly and put on a pair of latex gloves.
-Remove the lids from your jars.
-Turn the jar upside down, and pour out any loose dry vermiculite.
-Gently tap the open end of the jar on to your palm to loosen the cake from the jar. Continue to tap until the cake drops on to your hand. Set aside on a clean surface and repeat for each jar.
-Dunk:
+Dunk 浸渍 :
 
-For this you may use any container such as a large cooking pot or Ziploc bag. The idea is to fully submerge the cakes in water for 12-24 hours. If using a pot, you will need to place something on top of the floating cakes so that they are submerged.
+For this you may use any container such as a large cooking pot 锅 or Ziploc bag 名牌密封袋 . The idea is to fully submerge 浸入 the cakes in water for 12-24 hours. If using a pot, you will need to place something on top of the floating cakes so that 以便 they are submerged.
++ Fill a large Ziploc bag or another container with room temperature water.
++ Carefully place each cake inside.
++ Dunk – place something over them if using a pot, otherwise remove air from the Ziploc bag and seal. Set aside for 12-24 hours.
 
-Fill a large Ziploc bag or another container with room temperature water.
-Carefully place each cake inside.
-Dunk – place something over them if using a pot, otherwise remove air from the Ziploc bag and seal. Set aside for 12-24 hours.
 Casing Layer:
++ Remove the cakes from the water and place them on a disinfected surface.
++ Fill your mixing bowl with dry vermiculite.
++ Roll your cakes one by one to fully coat them in vermiculite. This will help to keep-in the moisture.
 
-Remove the cakes from the water and place them on a disinfected surface.
-Fill your mixing bowl with dry vermiculite.
-Roll your cakes one by one to fully coat them in vermiculite. This will help to keep-in the moisture.
 Transfer to Grow Chamber:
++ Cut a tin foil square for each of your cakes, large enough for them to sit on without touching the Perlite. Alternately you may use clean jar lids if available.
++ Space these evenly inside the grow chamber.
++ Place your cakes on top of the foil squares and gently mist the chamber with a spray bottle containing water.
++ Fan the chamber using the lid before closing.
 
-Cut a tin foil square for each of your cakes, large enough for them to sit on without touching the Perlite. Alternately you may use clean jar lids if available.
-Space these evenly inside the grow chamber.
-Place your cakes on top of the foil squares and gently mist the chamber with a spray bottle containing water.
-Fan the chamber using the lid before closing.
 Conditions and Maintenance:
++ Set your fruiting chamber in a clean well lit area, keeping it out of direct sunlight. Ideal conditions are between 70-80 degrees Fahrenheit.
++ Mist the walls of your fruiting chamber with water three to six times daily to keep the humidity levels up.
++ Fan the tub daily using the lid, typically after misting.
 
-Set your fruiting chamber in a clean well lit area, keeping it out of direct sunlight. Ideal conditions are between 70-80 degrees Fahrenheit.
-Mist the walls of your fruiting chamber with water three to six times daily to keep the humidity levels up.
-Fan the tub daily using the lid, typically after misting.
 STEP 6: HARVESTING MUSHROOMS
 Your mushrooms, or fruits, will appear as tiny white bumps before sprouting into “pins.” Pins can be though of as the baby mushrooms.
 
@@ -1054,3 +1054,24 @@ p100 到目前为止，我所谈及的，都是至福的幻象经验，以及其
 # 蘑菇博物馆
 
 ## p53 毒蝇鹅膏
+
+# 中国真菌志
+
+## 27-鹅膏科
+
+### p2
+毒鹅膏中含有两大类毒素
+#### 肽类毒素
+都是环肽化合物，耐高温，一般烹调加工不能改变其结构
+1. 鹅膏毒肽类（amatoxins）
+1. 鬼笔毒肽类（phallotoxins）
+1. 毒伞毒肽类（virotoxins）
+
+#### 非肽类毒素
+主要是**神经精神毒素**
+1. 毒蝇碱（muscarine）：会使副交感神经系统兴奋、血压降低、心跳减慢，胃肠平滑肌的蠕动增快，引起呕吐河腹泻等等
+1. 异恶唑衍生物（isocazole derivatives）：既能对中枢神经系统产生弱镇静作用，又能使大脑皮层兴奋，导致精神错乱、幻觉和色觉紊乱
++ 鹅膏氨酸
++ 毒蝇醇
+1. 色胺衍生物（tryptamine derivatives）：使视力紊乱、产生色彩幻觉
++ 蟾蜍素
