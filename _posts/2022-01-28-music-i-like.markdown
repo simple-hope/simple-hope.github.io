@@ -312,7 +312,6 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 |Reminding Me|Shawn Hook / V|
 |Glad You Came|Boyce Avenue|
 |Why Would I Ever|Paula DeAnda|
-|Closer|The Chainsmok|
 |Nevada|Vicetone / Cozi|
 |Dream It Possible|Delacey|
 |Attention|Charlie Puth|
@@ -321,7 +320,7 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 |call me maybe|Carly Rae Jepsen|
 |time in a bottle|Jim Croce|
 |Moshi Moshi|Poppy|
-|Telescop|Tim Legend / Tr|
+|Telescope|Tim Legend / Tr|
 |Superstar|Beatrich|
 |Havana|Camila Cabello|
 |Without U|Sergio|
