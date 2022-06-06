@@ -132,3 +132,6 @@ sudo crontab -e -u root
 # 15 04 * * 2-6  gitlab-ctl backup-etc && cd /etc/gitlab/config_backup && cp $(ls -t | head -n1) /secret/gitlab/backups/
 ```
 最后手动登录root账户并修改密码，偏好设置->本地化->语言->中文 
+
+## cygwin中的vim无法用鼠标复制的问题
+普通模式下输入“:set mouse-=a”
