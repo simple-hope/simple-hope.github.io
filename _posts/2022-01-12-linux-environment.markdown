@@ -112,6 +112,9 @@ uC6ET+hBJKBPo5ysYKMKIqQGxWBn/P8N5gCIYAQYEQIAIBYhBKdI4MBzTxi3CgoS
 *.md diff=plaintext
 ```
 
+## cygwin中的vim无法用鼠标复制的问题
+普通模式下输入“:set mouse-=a”
+
 ## 把 omnibus gitlab 私有化部署到 Ubuntu 20.04 LTS
 先手动将“软件和更新”的源改为阿里云
 ```
@@ -133,5 +136,26 @@ sudo crontab -e -u root
 ```
 最后手动登录root账户并修改密码，偏好设置->本地化->语言->中文 
 
-## cygwin中的vim无法用鼠标复制的问题
-普通模式下输入“:set mouse-=a”
+### 1.备份
+gitLab备份的默认目录是`/var/opt/gitlab/backups`，若想要主动执行备份操作，可以通过
+```
+gitlab-rake gitlab:backup:create
+```
+命令会在备份目录下创建一个以时间戳开头的xxxxxxxx_gitlab_backup.tar的压缩包，这个压缩包包括整个完整的gitlab。
+
+若需要修改默认的备份目录，可以通过修改`/etc/gitlab/gitlab.rb`主配置文件来设置
+```
+gitlab_rails['backup_path'] = '/data/backups'
+```
+
+### 2.恢复
+指定恢复文件，gitlab会自动去查找备份目录。
+
+指定文件名的格式类似：1535861590_2018_09_02_11.2.3，文件名后缀gitlab_backup.tar不需要添加”
+```
+gitlab-rake gitlab:backup:restore BACKUP=1535861590_2018_09_02_11.2.3
+```
+
+### docker部署
+[安装docker](https://www.runoob.com/docker/ubuntu-docker-install.html)
+[搭建gitlab](https://zhuanlan.zhihu.com/p/49499229)
