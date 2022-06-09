@@ -136,25 +136,46 @@ sudo crontab -e -u root
 ```
 最后手动登录root账户并修改密码，偏好设置->本地化->语言->中文 
 
-### 1.备份
+### 备份
 gitLab备份的默认目录是`/var/opt/gitlab/backups`，若想要主动执行备份操作，可以通过
-```
-gitlab-rake gitlab:backup:create
-```
+`gitlab-rake gitlab:backup:create`
+
 命令会在备份目录下创建一个以时间戳开头的xxxxxxxx_gitlab_backup.tar的压缩包，这个压缩包包括整个完整的gitlab。
 
-若需要修改默认的备份目录，可以通过修改`/etc/gitlab/gitlab.rb`主配置文件来设置
+1. 修改备份文件目录
++ 可以通过/etc/gitlab/gitlab.rb配置文件来修改默认存放备份文件的目录
++ `gitlab_rails['backup_path'] = "/var/opt/gitlab/backups"`
++ 修改完成之后使用gitlab-ctl reconfigure命令重载配置文件即可
+1. 设置备份过期时间
++ `gitlab_rails['backup_keep_time'] = 604800 #以秒为单位`
+1. gitlab自动备份：创建定时任务
 ```
-gitlab_rails['backup_path'] = '/data/backups'
+[root@gitlab ~]# crontab -e
+
+0 2 * * * /opt/gitlab/bin/gitlab-rake gitlab:backup:create
 ```
 
-### 2.恢复
-指定恢复文件，gitlab会自动去查找备份目录。
+### 恢复
+```
+[root@gitlab ~]# gitlab-ctl stop unicorn        #停止相关数据连接服务
 
-指定文件名的格式类似：1535861590_2018_09_02_11.2.3，文件名后缀gitlab_backup.tar不需要添加”
+[root@gitlab ~]# gitlab-ctl stop sidekiq
+
+[root@gitlab-new ~]# chmod 777 /var/opt/gitlab/backups/1530156812_2018_06_28_10.8.4_gitlab_backup.tar
+
+#修改权限，如果是从本服务器恢复可以不修改
+
+[root@gitlab ~]# gitlab-rake gitlab:backup:restore BACKUP=1530156812_2018_06_28_10.8.4    
+
+#从1530156812_2018_06_28_10.8.4编号备份中恢复
+
+#按照提示输入两次yes并回车
+
+[root@gitlab ~]# gitlab-ctl start                #启动gitlab
 ```
-gitlab-rake gitlab:backup:restore BACKUP=1535861590_2018_09_02_11.2.3
-```
+浏览器访问新服务器的地址进行查看，迁移成功
+
+在实际情况中访问gitlab可能是用域名访问，我们可以修改gitlab配置文件中的url再进行备份，这样就不会影响迁移过程，恢复完成后需要进行的只是修改域名对应的dns解析ip地址
 
 ### docker部署
 [安装docker](https://www.runoob.com/docker/ubuntu-docker-install.html)
