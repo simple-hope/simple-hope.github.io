@@ -127,7 +127,10 @@ export EXTERNAL_URL=https://gitlab.sincerity.com
 sudo dpkg -i gitlab-jh_14.9.0-jh.0_amd64.deb
 sudo vi /etc/gitlab/gitlab.rb
 # gitlab_rails['initial_root_password'] = 'password'
-# external_url "http://gitlab.sincerity.com"
+# external_url 'http://gitlab.sincerity.com'
+# gitlab_rails['manage_backup_path'] = true
+# gitlab_rails['backup_path'] = "/mnt/挂载点"
+# gitlab_rails['backup_keep_time'] = 604800
 sudo gitlab-ctl reconfigure
 
 sudo mkdir /secret/gitlab/backups/
@@ -138,11 +141,11 @@ sudo crontab -e -u root
 
 ### 备份
 gitLab备份的默认目录是`/var/opt/gitlab/backups`，若想要主动执行备份操作，可以通过
-`gitlab-rake gitlab:backup:create`
+`sudo gitlab-rake gitlab:backup:create`
 
 命令会在备份目录下创建一个以时间戳开头的xxxxxxxx_gitlab_backup.tar的压缩包，这个压缩包包括整个完整的gitlab。
 
-1. 修改备份文件目录
+1. 修改备份文件目录（经测试不支持ntfs）
 + 可以通过/etc/gitlab/gitlab.rb配置文件来修改默认存放备份文件的目录
 + `gitlab_rails['backup_path'] = "/var/opt/gitlab/backups"`
 + 修改完成之后使用gitlab-ctl reconfigure命令重载配置文件即可
@@ -177,6 +180,11 @@ gitLab备份的默认目录是`/var/opt/gitlab/backups`，若想要主动执行�
 
 在实际情况中访问gitlab可能是用域名访问，我们可以修改gitlab配置文件中的url再进行备份，这样就不会影响迁移过程，恢复完成后需要进行的只是修改域名对应的dns解析ip地址
 
+由于备份的时候不会处理gitlab.rb和gitlab-secrets.json，所以目标服务器依然需要改一下gitlab.rb，最少external_url需要改一下
+
 ### docker部署
 [安装docker](https://www.runoob.com/docker/ubuntu-docker-install.html)
+
+sudo apt install docker-compose
+
 [搭建gitlab](https://zhuanlan.zhihu.com/p/49499229)
