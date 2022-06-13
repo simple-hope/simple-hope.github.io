@@ -5,6 +5,11 @@ date:   2022-02-22 11:57:01 +0800
 categories: jekyll update
 ---
 
+## sourcetree
+密码更换后，sourcetree就pull代码失败，需要删除以前保存的密码才能继续正常使用。。。。
+
+处理：`C:\Users\用户\AppData\Local\Atlassian\SourceTree` 删除passwd文件就可以重新输入账号密码了
+
 ## 命令
 ```
 ffmpeg -i 输入文件名 -ss 1:02:03 -t 持续时长 -c copy 输出文件名
