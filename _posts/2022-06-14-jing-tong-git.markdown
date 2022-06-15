@@ -27,7 +27,7 @@ git fetch会更新远程分支指针
 1. 依次引入更改  
 
 # ch04
-如果你对自己运行Git服务器不感兴趣，可以跳过本章的前面几节，直接阅读4.9节。
+如果你对自己运行git服务器不感兴趣，可以跳过本章的前面几节，直接阅读4.9节。
 
 ## 4.1 协议
 ### 4.1.1 本地协议
@@ -36,31 +36,31 @@ git fetch会更新远程分支指针
 智能HTTP协议最普遍。既支持匿名访问，也支持用户验证。
 ### 4.1.3 SSH协议
 SSH不能实现匿名访问
-### 4.1.4 Git协议
-Git协议不提供任何身份验证方式
+### 4.1.4 git协议
+git协议不提供任何身份验证方式
 
-## 4.2 在服务器上搭建Git
+## 4.2 在服务器上搭建git
 ### 4.2.1 将裸仓库放置在服务器上
 如果你只需要与几个人协作完成一个私有项目，那么只需要SSH服务器和裸仓库就够了
 ### 4.2.2 小型团队配置
-配置Git服务器时最麻烦的一个方面就是用户管理
+配置git服务器时最麻烦的一个方面就是用户管理
 
 ## 4.3 生成个人的ssh公钥
-让Git服务器的管理员把公钥添加到git用户的`~/.ssh/authorized_keys`文件中即可访问
+让git服务器的管理员把公钥添加到git用户的`~/.ssh/authorized_keys`文件中即可访问
 
 ## 4.4 设置服务器
 每次创建新项目时，都需要有人通过SSH方式登录该服务器并创建一个新的裸仓库
 
 如果该服务器搭建在内网，并且已经配置好DNS，使得gitserver指向该服务器，那么你就可以直接克隆`git@gitserver:/srv/git/project.git`
 
-## 4.5 Git守护进程
+## 4.5 git守护进程
 无需授权，提供公开项目的访问
 
 ## 4.6 智能HTTP
-Git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现通过HTTP协议发送和接收数据
+git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现通过HTTP协议发送和接收数据
 
 ## 4.7 GitWeb
-在Linux上lighttpd一般都已经装好，可以直接在项目目录下执行`git instaweb`来通过web展示Git项目和数据
+在Linux上lighttpd一般都已经装好，可以直接在项目目录下执行`git instaweb`来通过web展示git项目和数据
 
 ## 4.8 GitLab
 
@@ -167,10 +167,13 @@ Git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 
 如果使用`git revert -m 1 HEAD`来抵消合并，会影响这两个分支以后的合并基础
 ### 7.8.3 `-Xours`与`-s ours`
-给merge传入-Xours或-Xtheirs选项就不再添加冲突标记。任何能够合并的差异，Git会选择合并。任何有冲突的差异，Git会简单地选择你所指定的那一侧。
+给merge传入-Xours或-Xtheirs选项就不再添加冲突标记。任何能够合并的差异，git会选择合并。任何有冲突的差异，git会简单地选择你所指定的那一侧。
 
 更严格的策略是`-s ours`。这个方法基本上做的是一次假合并。它会记录一个
-#### 读完ch10回来看子树合并
+### 子树合并
+git能够聪明地发现一个子目录是另一个的子树
+
+这给我们提供了一种方法，可以在不使用子模块的情况下拥有一种类似于子模块流程的工作方式。其不足之处在于略有些复杂，容易出现操作错误
 
 ## 7.9 rerere
 在有些情况下，重用冲突解决方案相当方便。例如：
@@ -178,11 +181,11 @@ Git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 + 选用一个已合并的分支，修复了一堆冲突后决定对其进行变基操作，这样你可能就不必再去解决同样的冲突了。
 + 偶尔将多个尚在改进的topic分支合并到一个可测试的头部。如果测试失败，你可以返回合并之前，不使用导致失败的topic分支，然后再次合并，无需再次重新解决冲突。
 
-## 7.10 使用Git调试
+## 7.10 使用git调试
 ### 7.10.1  文件标注
 `git blame -L 起始行,结束行 文件`查看每一行的最后一次修改者和修改时间
 
-加入-C参数要求Git找出代码移动的原始出处
+加入-C参数要求git找出代码移动的原始出处
 ### 7.10.2 `git bisect`帮助尽快确定问题是由那、哪一次提交引发的
 
 ## 7.11 子模块
@@ -214,21 +217,60 @@ Git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 
 **跳过复杂操作**
 
-### 7.11.4 子模块技巧
-**读到这里**
+### 7.11.4 foreach与别名
+`git submodule foreach 'git diff'`
 
-## 7.12 打包bundle
+### 7.11.5 子模块的问题
+在分支A中加入子模块后切换回没有子模块的分支B，会留下一个未被跟踪的子模块目录。
+
+如果删除该目录，然后切换回分支A，需要执行`submodule update --init`来重新填充
+
+另一个要重点注意的地方涉及从子目录到子模块的切换
+
+## 7.12 打包
+`git bundle create repo.bundle HEAD master`创建的repo.bundle文件包含了重建仓库master分支所需的所有数据
+
+`git clone repo.bundle repo`可以从二进制文件克隆到一个目录中。如果在create时没有在引用中包含HEAD，那还得指定`-b master`或者其他被引入的分支
+
+也可以只打包部分提交，与format-patch的区别在于只生成一个文件
+
 ## 7.13 替换：历史记录拆分后可用replace重新嫁接
+
 ## 7.14 凭据存储
-`git config --global credential.helper cache --timeout 900`设置将凭据保存在内存中15分钟
+git凭据系统提供的选项
+1. 默认不缓存任何内容。所有连接都会提醒你输入输入用户名和密码
+1. cache模式会将凭据保存在内存15分钟，绝不会将密码存储在磁盘上。
+1. store模式将凭据保存在磁盘上的纯文本文件中，且永不过期。
+1. Mac还有osxkeychain模式，会把凭据以加密形式存放在磁盘上
+1. Win可以安装`Git Credential Manager for Windows`使用`Windows Credential Store`来控制敏感信息
+
+`git config --global credential.helper cache --timeout 30000`设置将凭据保存在内存中约8小时
 
 `git config --global credential.helper store --file 路径`设置将凭据保存在硬盘
 
-# ch08 自定义Git
+如果你的凭据文件保存在u盘上，希望在没有插入u盘的时候使用内存缓存来保存凭据。那么.gitconfig看起来如下所示
+```
+[credential]
+	helper = store --file /mnt/thumbdrive/.git-credentials
+	helper = cache --timeout 30000
+```
+### 7.14.1 底层实现
+### 7.14.2 自定义凭据缓存
 
-## 8.1 配置Git
+# ch08 自定义git
+
+## 8.1 配置git
 ### 8.1.1 基本配置
 `git config --global commit.template ~/.gitmessage.txt`设置默认的提交消息占位符
+
+如果你要创建签署过的附注标签（在7.4节中讨论过），那么将你的GPG签署密钥作为配置项设置会更方便。设置
+`git config --global user.signingkey <gpg-key-id>`
+以后再签署标签时只需`git tag -s <tag-name>
+
+core.excludesfile可用于设置系统级ignore
+
+将help.autocorrect设置为1可以在输错命令时将git推测出的命令自动执行；将其设置为50会在执行纠正命令前给你留出5秒钟的考虑时间
+### 8.1.2 自定义配色
 ### 8.1.3 外部的合并与diff工具
 `git config --global merge.tool kdiff3`
 ### 8.1.4 格式化与空白字符
@@ -239,31 +281,162 @@ Git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 + （默认）space-before-tab 会查找行首制表符之前的空格
 3. 如果提交了存在空白字符问题的文件，可以执行`git rebase --whitespace=fix`自动修复
 
-## 8.2 Git属性
-针对路径的配置被称为Git属性
+### 8.1.5 服务器配置
+设置`git config --system receive.fsckObjects true`能够确认在推送过程中接收到的每一个对象的有效性以及是否匹配其SHA-1校验和。但代价太高，有可能拖慢其他操作，尤其是在处理大型仓库或推送大文件的时候。
+
+设置`git config --system receive.denyNonFastForwards true`可以拒绝`push -f`。另一种实现方法是通过服务器端的接收钩子，能够让你完成一些更复杂的操作
+
+有一种方法可以绕开denyNonFastForwards：先删除分支然后再推送。为了避免这种情况，可以将receive.denyDeletes设置为true禁止删除远程分支
+
+## 8.2 git属性
+针对路径的配置被称为git属性。如果你不希望将属性文件连同项目一起提交，也可以在.git/info/atttibutes文件中设置
 ### 8.2.1 二进制文件
-1. `*.pbxproj binary`告诉Git把`*.pbxproj`当做二进制文件来处理
+1. `*.pbxproj binary`告诉git把后缀为.pbxproj的文件当做二进制文件来处理
 1. 比较二进制文件
 + `*.docx diff=word`配合`git config diff.word.textconv docx2txt`可比较word文件的文字改动
-1. `*.png diff=exif`配合`git config diff.exif.textconv exiftool`可比较图像的元信息
++ `*.png diff=exif`配合`git config diff.exif.textconv exiftool`可比较图像的元信息
 ### 8.2.2 关键字扩展
-1. `*.txt ident`让Git在检出时将blob对象的SHA-1写入$Id$字段。用途有限
-2. 编写自己的smudge和clean
+`*.txt ident`让git在检出时将blob对象的SHA-1写入$Id$字段。用途有限
+
+可以编写自己的smudge和clean后，在文件检出时会运行smudge过滤器，在文件暂存时会运行clean过滤器
+### 8.2.3 有2个属性用于git archive
+### 8.2.4 合并时忽略特性分支的变更
+设置`git config --global merge.ours.driver true`并添加属性`db.xml merge=ours`可以让db.xml文件不受特性分支影响
+
+## 8.3 钩子
+### 8.3.1 安装钩子
+想启用一个钩子脚本，需要将不含.sample后缀的可执行文件放入.git/hooks
+### 8.3.2 客户端钩子
+#### 提交工作流钩子
+1. pre-commit钩子在键入提交消息前运行。如果以非零值退出，提交会被中止，但可以使用`git commit --no-verify`来绕过这个环节
+1. prapare-commit-msg钩子的运行时机是在提交消息编辑器启动之前，默认消息被创建之后。一般用于 那些自动生成默认消息的提交。如
++ 提交消息模板
++ 合并提交
++ 压缩提交
++ 修正提交
+1. commit-msg钩子用于在提交通过前验证项目状态或提交信息。在8.4节演示
+1. post-commit钩子在提交结束后运行，通常用于通知
+
+#### 基于电子邮件的3个钩子都是由git am调用的
+#### 其他客户端钩子
+1. pre-rebase钩子在变基前运行，如果以非零值退出，那么变基过程就会被挂起
+1. post-rewrite钩子由那些执行提交替换的命令调用，包括--amend和rebase，但不包括filter-branch。该脚本的唯一参数是触发重写的命令名称，它从stdin中接收一系列重写的提交。
+1. post-checkout钩子在checkout成功执行后被调用，可用于移入不想纳入版本控制的大型文件
+1. post-merge钩子会在merge成功执行后运行，可用于
++ 恢复git无法跟踪的权限数据
++ 验证是否有不受git控制的文件存在
+1. pre-push钩子的调用时机是在远程引用被更新之后，尚未传输对象之前。如果以非零值退出，中止推送
+1. pre-auto-gc钩子会在git gc开始前被调用
+
+### 8.3.3 服务器端钩子
+在推送之前运行的服务器端钩子可以随时以非零值退出，拒绝推送操作，并在客户端输出错误提示
+1. pre-receive在收到推送时首先运行，它会从stdin处接收一系列被推送的引用
+1. update脚本类似于pre-receive，但它会为每一个要更新的分支都运行一次。它不会从stdin处读取内容，它接受3个参数：引用名称（分支）、推送之前的SHA-1、推送内容的SHA-1。如果以非零值退出，只有对应的引用会被拒绝，其他引用仍然会被更新
+1. post-receive钩子无法阻止推送过程，但在推送结束之前会一直保持连接，因此进行一些耗时较长的操作需谨慎
+
+## 8.4 git强制策略示例
+用Ruby编写脚本实现：检查提交消息的格式，只允许特定的用户修改项目中特定的子目录
+
+# ch09 git与其他系统
+
+### 9.1.1 git svn与Subversion双向桥接
+建议保持线性：只变基不合并
+
+不要向单独的git服务器推送任何不包含git-svn-id的内容
+
+**跳过**
+
+### 9.2.5 自定义导入工具
+git fast-import从stdin中读取简单的指令来写入特定的git数据。比起执行原始的git命令或是编写原始对象要容易
+
+# ch10 git内幕
+
+git本质上是一个可按内容寻址的文件系统
+
+## 10.1 底层命令和高层命令
+.git目录中，有4项很重要
+1. objects存储了个人数据库的所有内容
+1. refs存储指针，指向提交对象
+1. HEAD指向当前检出的分支
+1. index保存暂存区信息
+
+## 10.2 git对象
+git的核心就是“键-值”数据存储。
+
+blob对象保存文件内容
+### 10.2.1 树对象
+树类型对象解决了存储文件名的问题
+### 10.2.2 提交对象
+提交对象指定单个树对象的SHA-1、父提交对象和提交信息
+### 10.2.3 对象存储
+git构造出以对象类型作为开头的头部信息，例如"blob #{content.length}\0"，将头部信息和原始内容拼接在一起，然后计算新内容的SHA-1；接着使用zlib压缩新内容；最后写道磁盘上的对象中
+
+## 10.3 git引用
+1. `.git/HEAD`包含指向当前所在分支的符号引用；
+1. `.git/refs/heads/`存储分支；
+1. `.git/refs/tags/`存储标签；
+1. `.git/refs/remotes/`存储最后一次推送到远程仓库的每个分支的值。是只读的，无法用commit命令来更新
+
+## 10.4 包文件
+执行git gc会查找名称和大小相近的文件，只保存不同版本文件之间的差异。
+
+包文件包含了删除的松散对象，索引文件包含了针对包文件内容的偏移（**博主注：这似乎说明在加密文件系统中使用大型包文件可能会让索引记录的偏移失去意义，因为需要解密整个包文件**CF：[维护](#10-7-1-维护)）
++ `.git/objects/info/packs`
++ `.git/objects/pack/pack-*.idx`
++ `.git/objects/pack/pack-*.pack`
+
+底层命令`git verify-pack`可以用来查看打包的内容
+
+## 10.5 引用规格
+`git remote add origin <url>`会在.git/config中添加3行
+```
+[remote "origin"]
+        url = <url>
+        fetch = +refs/heads/*:refs/remotes/origin/*
+```
+其中的加号指示即便在不能快进的情况下也更新引用
+
+可以通过添加一行`push = refs/heads/master:refs/remotes/qa/master`使得这成为`git push origin`的默认操作
+
+## 10.6 git传输协议
+### 10.6.1 哑协议
+dumb协议的获取过程就是一系列的HTTP GET请求
+
+替代仓库是让派生项目共享对象的好办法。`objects/info/http-alternates`记录替代仓库URL列表
+### 10.6.2 智能协议
+用ssh协议push时会尝试以ssh的方式在远程服务器上执行命令，就像
+`ssh -x git@server "git-receive-pack 'simplegit-progit.git'"`
+
+收到服务器的状态后，send-pack进程就能够确定那些提交是自己拥有但服务器却没有的
+
+## 10.7 维护与数据恢复
+### 10.7.1 维护
+有7000个左右的松散对象或50个以上的包文件会触发gc，可以分别修改gc.auto和gc.autopacklimit配置设置来修改这些限制
+### 10.7.2 数据恢复
+`git reflog`展示HEAD曾经指向的引用
+
+`git log -g`会将引用日志按照正常的log格式输出
+
+如果丢失了引用日志，例如误操作`rm -Rf .git/logs/`，可以使用`git fsck`检查数据的完整性，加上--full选项会显示出所有没被其他对象指向的对象
+### 10.7.3 移除大对象
+#### 首先找到哪些文件较大
+先执行git gc把所有对象放到包文件中（博主注：包括二进制文件）
+
+然后用`git count-objects -v`查看是否只有1个包文件
+
+接着用`git verify-pack -v .git/objects/pack/pack-*.idx | sort -k 3 -n | tail`列出最大体积的对象。要查出文件名，还要用`git rev-list --objects --all | grep <sha1>`
+#### 查看哪些提交修改了该大文件
+`git log --oneline --branches -- <path>`
+#### 移除
+```
+git filter-branch -index-filter \
+	'git rm --ignore-unmatch --cached <path>' -- <引入大文件的最早提交>^..
+```
+
+其中--index-filter选项与7.6节用过的--tree-filter类似，但它配合`git rm --cached`速度更快。--ignore-unmatch选项指明待删除文件不匹配时不显示错误
+
+### 10.8 环境变量
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[读完ch10回来看子树合并](#读完ch10回来看子树合并)
+[读完ch10回7.8.3看子树合并](#读完ch10回来看子树合并)
 
