@@ -5,20 +5,10 @@ date:   2022-06-14 14:18:36 +0800
 categories: jekyll update
 ---
 
-
 ## 3.5 远程分支
-远程分支是指针，存在于本地且**无法被移动**。当你与服务器进行网络通信时，它们会自动更新。远程分支有点像书签，它们会提示你上一次连接服务器时远程仓库中每个分支的位置。
-
-git fetch会更新远程分支指针
-### 3.5.1 推送
-`git push origin serverfix`实际上是`git push origin refs/heads/serverfix:refs/heads/serverfix`
-
-如果不想每次推送时都键入密码，可以设置一个凭据缓存（credential cache）。请参阅[7.14节](#7-14-凭据存储)
-
-上游分支的简单写法：如果你已经设置好了上游分支，就可以通过@{u}来使用。例如在master上用`git merge @{u}`来代替`git merge origin/master`
+如果不想每次推送时都键入密码，可以设置一个凭据缓存（credential cache）。请参阅[7.14节](#凭据存储)
 
 `git branch -vv`列出每个分支的名字及其跟踪的远程分支信息，以及领先或落后的信息。要注意的是，这条命令和`git status`都不会与服务器通信以获取最新信息。
-### 3.5.4 删除远程分支：`git push origin --delete serverfix`
 
 ## 3.6 变基
 ### 3.6.1 变基的工作原理
@@ -63,7 +53,6 @@ git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 在Linux上lighttpd一般都已经装好，可以直接在项目目录下执行`git instaweb`来通过web展示git项目和数据
 
 ## 4.8 GitLab
-
 每个项目都归属于单个命名空间
 1. 用户命名空间
 1. 组命名空间
@@ -85,16 +74,19 @@ git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 提交之前执行`git diff --check`列出可能存在的空白字符错误
 
 提交消息的第一行不应该超过50个字符
-### 5.2.4 用`rebase -i`将工作内容压缩成单个提交可能会方便维护人员评审补丁。7.6节会对交互式变基做更详尽的介绍。
+### 5.2.4 用`rebase -i`将工作内容压缩成单个提交可能会方便维护人员评审补丁。
+CF：[7.6节](#重写历史)会对交互式变基做更详尽的介绍。
 ### 5.2.5 用`git format-patch`来生成要通过电子邮件发送的mbox格式的文件
 用`git send-email`之前需要配置
-### 5.3.4 确定引入内容
-[CF:7.1 选择修订版本](#7-1-选择修订版本)
+
+### 确定引入内容
+CF：[7.1 选择修订版本](#选择修订版本)
 双点语法：`git log master..contrib`显示在contrib中但不在master中的提交
 三点语法：`git diff master...contrib`显示contrib与master分岔后的diff
 ### 5.3.5 大型合并工作流
 将主题分支合并到next并推送共享，如果主题分支仍需改进则合并到pu分支，稳定下来后重新和并入master。这意味着master始终快近，next偶尔变基，pu频繁变基。maint用于提供向后移植补丁。
-### 5.3.9 汇总自上次v1.1.1之后所有提交：`git shortlog --no-merges master --not v1.1.1`
+### 5.3.9 汇总自v1.1.1之后所有提交
+`git shortlog --no-merges master --not v1.1.1`
 
 # ch06
 
@@ -106,33 +98,31 @@ git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 
 # ch07
 
-## 7.1 选择修订版本
-### `git log --left-right master...experiment`可以显示出提交属于哪一侧的分支。[CF:5.3.4 确定引入内容](#5-3-4-确定引入内容)
+## 选择修订版本
+### 显示出提交属于哪一侧的分支
+`git log --left-right master...experiment`。CF：[5.3.4 确定引入内容](#确定引入内容)
 
 ## 7.3 储藏
-### 7.3.3 从储藏中创建分支：`git stash branch 新分支名`
+### 7.3.3 从储藏中创建分支
+`git stash branch 新分支名`
 ### 清理工作目录
-`git stash -all`以储藏形式保存全部内容
-`git clean -n`做一次删除的演习
-`git clean -f`进行实际删除
++ `git stash -all`以储藏形式保存全部内容
++ `git clean -n`做一次删除的演习
++ `git clean -f`进行实际删除
 
 ## 7.5 搜索
 ### 7.5.1 工作目录搜索
-`git grep 模式`默认只查找工作目录下的文件
-
-`git grep --count 模式`输出总结信息：每个匹配的文件中有多少处匹配
-
-`git grep -p 模式`显示所查找到的匹配属于哪个方法或函数
++ `git grep 模式`默认只查找工作目录下的文件
++ `git grep --count 模式`输出总结信息：每个匹配的文件中有多少处匹配
++ `git grep -p 模式`显示所查找到的匹配属于哪个方法或函数
 
 还可以使用--and选项来查找复杂的字符串组合
 ### 7.5.2 日志搜索
-`git log -S 字符串`显示出添加过或删除过该字符串的那些提交
++ `git log -S 字符串`显示出添加过或删除过该字符串的那些提交
++ `git log -G 模式`等同于-S但使用正则表达式进行模式匹配
++ `git log -L 模式:文件`显示所有匹配的改动记录
 
-`git log -G 模式`等同于-S但使用正则表达式进行模式匹配
-
-`git log -L 模式:文件`显示所有匹配的改动记录
-
-## 7.6 重写历史
+## 重写历史
 ### 7.6.3 重排提交：在交互式变基中改变行的顺序
 ### 7.6.4 压缩提交：在交互式变基中用squash
 ### 7.6.5 拆分提交：在交互式变基中用edit
@@ -157,11 +147,10 @@ git自带一个叫做git-http-backend的CGI脚本，你可以调用它来实现�
 |checkout COMMIT FILE	
 
 ### 7.8.1 合并冲突
-`git merge -Xignore-all-space`忽略空白字符的变更
++ `git merge -Xignore-all-space`忽略空白字符的变更
++ `git checkout --conflict=diff3 冲突文件名`在冲突标记中提供内嵌的base版本
++ `git checkout`还可以接受--ours和--theirs作为选项，这是一种只选择其中一侧的快速方法。
 
-`git checkout --conflict=diff3 冲突文件名`在冲突标记中提供内嵌的base版本
-
-`git checkout`还可以接受--ours和--theirs作为选项，这是一种只选择其中一侧的快速方法。
 ### 7.8.2 还原提交
 对合并提交执行`git revert`需要用-m选项指明要还原哪个父节点引入的变更
 
@@ -234,9 +223,10 @@ git能够聪明地发现一个子目录是另一个的子树
 
 也可以只打包部分提交，与format-patch的区别在于只生成一个文件
 
-## 7.13 替换：历史记录拆分后可用replace重新嫁接
+## 7.13 替换
+历史记录拆分后可用replace重新嫁接
 
-## 7.14 凭据存储
+## 凭据存储
 git凭据系统提供的选项
 1. 默认不缓存任何内容。所有连接都会提醒你输入输入用户名和密码
 1. cache模式会将凭据保存在内存15分钟，绝不会将密码存储在磁盘上。
@@ -263,9 +253,10 @@ git凭据系统提供的选项
 ### 8.1.1 基本配置
 `git config --global commit.template ~/.gitmessage.txt`设置默认的提交消息占位符
 
-如果你要创建签署过的附注标签（在7.4节中讨论过），那么将你的GPG签署密钥作为配置项设置会更方便。设置
+如果你要创建签署过的附注标签（在7.4节中讨论过），那么将你的GPG签署密钥作为配置项设置会更方便。进行下述设置以后再签署标签时只需`git tag -s <tag-name>`
+
 `git config --global user.signingkey <gpg-key-id>`
-以后再签署标签时只需`git tag -s <tag-name>
+
 
 core.excludesfile可用于设置系统级ignore
 
@@ -295,6 +286,7 @@ core.excludesfile可用于设置系统级ignore
 1. 比较二进制文件
 + `*.docx diff=word`配合`git config diff.word.textconv docx2txt`可比较word文件的文字改动
 + `*.png diff=exif`配合`git config diff.exif.textconv exiftool`可比较图像的元信息
+
 ### 8.2.2 关键字扩展
 `*.txt ident`让git在检出时将blob对象的SHA-1写入$Id$字段。用途有限
 
@@ -314,7 +306,7 @@ core.excludesfile可用于设置系统级ignore
 + 合并提交
 + 压缩提交
 + 修正提交
-1. commit-msg钩子用于在提交通过前验证项目状态或提交信息。在8.4节演示
+1. commit-msg钩子用于在提交通过前验证项目状态或提交信息。在[8.4节](#git强制策略示例)演示
 1. post-commit钩子在提交结束后运行，通常用于通知
 
 #### 基于电子邮件的3个钩子都是由git am调用的
@@ -334,7 +326,7 @@ core.excludesfile可用于设置系统级ignore
 1. update脚本类似于pre-receive，但它会为每一个要更新的分支都运行一次。它不会从stdin处读取内容，它接受3个参数：引用名称（分支）、推送之前的SHA-1、推送内容的SHA-1。如果以非零值退出，只有对应的引用会被拒绝，其他引用仍然会被更新
 1. post-receive钩子无法阻止推送过程，但在推送结束之前会一直保持连接，因此进行一些耗时较长的操作需谨慎
 
-## 8.4 git强制策略示例
+## git强制策略示例
 用Ruby编写脚本实现：检查提交消息的格式，只允许特定的用户修改项目中特定的子目录
 
 # ch09 git与其他系统
@@ -377,15 +369,15 @@ git构造出以对象类型作为开头的头部信息，例如"blob #{content.l
 1. `.git/refs/tags/`存储标签；
 1. `.git/refs/remotes/`存储最后一次推送到远程仓库的每个分支的值。是只读的，无法用commit命令来更新
 
-## 10.4 包文件
+## 包文件
 执行git gc会查找名称和大小相近的文件，只保存不同版本文件之间的差异。
 
-包文件包含了删除的松散对象，索引文件包含了针对包文件内容的偏移（**博主注：这似乎说明在加密文件系统中使用大型包文件可能会让索引记录的偏移失去意义，因为需要解密整个包文件**CF：[维护](#10-7-1-维护)）
+包文件包含了删除的松散对象，索引文件包含了针对包文件内容的偏移（**博主注：这似乎说明在加密文件系统中使用大型包文件可能会让索引记录的偏移失去意义，因为某些加密模式需要解密整个包文件**CF：[10.7.1](#维护)）
 + `.git/objects/info/packs`
 + `.git/objects/pack/pack-*.idx`
 + `.git/objects/pack/pack-*.pack`
 
-底层命令`git verify-pack`可以用来查看打包的内容
+底层命令`git verify-pack`可以用来查看打包的内容。CF：[10.7.3](#移除大对象)
 
 ## 10.5 引用规格
 `git remote add origin <url>`会在.git/config中添加3行
@@ -405,20 +397,21 @@ dumb协议的获取过程就是一系列的HTTP GET请求
 替代仓库是让派生项目共享对象的好办法。`objects/info/http-alternates`记录替代仓库URL列表
 ### 10.6.2 智能协议
 用ssh协议push时会尝试以ssh的方式在远程服务器上执行命令，就像
+
 `ssh -x git@server "git-receive-pack 'simplegit-progit.git'"`
 
 收到服务器的状态后，send-pack进程就能够确定那些提交是自己拥有但服务器却没有的
 
 ## 10.7 维护与数据恢复
-### 10.7.1 维护
-有7000个左右的松散对象或50个以上的包文件会触发gc，可以分别修改gc.auto和gc.autopacklimit配置设置来修改这些限制
+### 维护
+有7000个左右的松散对象或50个以上的包文件会触发gc，可以分别修改gc.auto和gc.autopacklimit配置设置来修改这些限制。CF：[10.4](#包文件)
 ### 10.7.2 数据恢复
 `git reflog`展示HEAD曾经指向的引用
 
 `git log -g`会将引用日志按照正常的log格式输出
 
 如果丢失了引用日志，例如误操作`rm -Rf .git/logs/`，可以使用`git fsck`检查数据的完整性，加上--full选项会显示出所有没被其他对象指向的对象
-### 10.7.3 移除大对象
+### 移除大对象
 #### 首先找到哪些文件较大
 先执行git gc把所有对象放到包文件中（博主注：包括二进制文件）
 
@@ -433,10 +426,9 @@ git filter-branch -index-filter \
 	'git rm --ignore-unmatch --cached <path>' -- <引入大文件的最早提交>^..
 ```
 
-其中--index-filter选项与7.6节用过的--tree-filter类似，但它配合`git rm --cached`速度更快。--ignore-unmatch选项指明待删除文件不匹配时不显示错误
+其中--index-filter选项与[7.6节](#重写历史)用过的--tree-filter类似，但它配合`git rm --cached`速度更快。--ignore-unmatch选项指明待删除文件不匹配时不显示错误
 
 ### 10.8 环境变量
 
 
-[读完ch10回7.8.3看子树合并](#读完ch10回来看子树合并)
 
