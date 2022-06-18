@@ -428,7 +428,117 @@ git filter-branch -index-filter \
 
 其中--index-filter选项与[7.6节](#重写历史)用过的--tree-filter类似，但它配合`git rm --cached`速度更快。--ignore-unmatch选项指明待删除文件不匹配时不显示错误
 
-### 10.8 环境变量
+## 10.8 环境变量
+### 10.8.2 仓库位置
+GIT_CEILING_DIRECTORIES控制.git目录的查找行为。如果你访问到加载速度缓慢的目录（磁带或慢速网络），你可能会想要git趁早停止。
+
+GIT_ALTERNATE_OBJECT_DIRECTORIES是一个由冒号分隔的列表，用于告诉git，如果对象不再`.git/object`中，应该去哪里检查对象。用于大量项目中共享相同内容的大文件，避免存储过多的副本
+### 10.8.5 网络
+GIT_SSL_NO_VERIFY告诉git不验证ssl证书。如果你使用自签名证书通过https搭建git服务器，还没有安装完整的证书，这个选项就很有必要了
+
+如果http操作的数据速率低于GIT_HTTP_LOW_SPEED_LIMIT字节/秒、持续时间超过GIT_HTTP_LOW_SPEED_TIME秒，git将中止该操作。这些值会覆盖http.lowSpeedLimit和http.lowSpeedTime配置值
+### 10.8.7 调试
+### 10.8.8 杂项
+GIT_FLUSH强制git在向stdout中增量写入的时候使用非缓冲I/O。取值为1会使得git更频繁地刷新，取值为0会缓冲所有的输出。默认不设置此变量会根据活动情况和输出模式来选择合适的缓冲方案
+
+## A.6 powershell
+Post-Git包为powershell中的git提供命令补全功能
+
+## B 在应用程序中嵌入git
+
+## C.2.2 clone
+默认的`git clone`像是多条命令的包装器：创建新目录、进入该目录，init，remote add，fetch，checkout
+
+## C.3.3 diff
+使用-b选项来过滤掉空白字符造成的差异
+
+
+
+以上为《精通git》
+---
+以下为PGP
+
+## Introduction
+
+This book is not meant to be the definitive tome（权威著作） on the 
+subject. It will not teach you how to compute public encryption 
+keys by hand, nor will it survey all the encryption algorithms 
+and techniques available today. However, it will teach you 
+enough about the ideas behind encryption and digital signatures that you’ll be able to make intelligent choices about 
+which of the available options you should use in any given circumstance
+
+### The Story of PGP
+跳过
+
+### Stop Wasting My Precious Time. What Do I Need to Read?
+If you choose GnuPG, read the general OpenPGP chapters and those dedicated to GnuPG: Chapters 1–2, 4–5, 7–8, 
+and 11. GnuPG chapters tend to be longer than PGP chapters 
+because GnuPG people must learn more.
+
+## ch01
+
+## 附录B
+
+### Output Control
+The -a (or --armor) flag tells 
+GnuPG to give output in human-readable format, instead 
+of the default binary format. Similarly, the --output flag tells 
+GnuPG to send its output to a file, rather than dumping it 
+directly to the screen.
+
+### Keypair Creation, Revocation（吊销）, and Exports
+To create a new GnuPG keypair, use the interactive --gen-key
+option. GnuPG will walk you through the key-creation process. (We discussed key creation and management in detail in 
+Chapter 4.)
+
+#### Revoking a Key
+跳过
+
+#### Exporting a Key
+`gpg --output pubkey.asc --armor --export UID`
+
+#### Sending a Key to a Keyserver 
+To send a public key to a keyserver, use the --send-keys option. 
+The --keyserver option lets you choose to which keyserver you 
+want to submit the key. If you don’t choose a keyserver, GnuPG 
+will use the default keyserver specified in gpg.conf.
+
+### Managing Keyrings
+#### Viewing Keys
++ option --list-keys. This will print all the keys on your keyring, so you can include a UID or portion thereof to list only particular keys.
++ To see the secret keys on your keyring, use the option --list-secret-keys.
++ To view the fingerprint of a key, use --fingerprint and the UID of the key or a subset thereof.
+#### Adding and Removing Keys
+To import a public key from a file, use the --import option 
+and the name of the file. No other options are required. 
+To remove a key from your keyring, use the --delete-keys
+option and give the UID or keyid of the key you want to 
+delete.
+
+### Key Signatures
+### Encryption and Decryption
+Use the --encrypt option to encrypt files, giving the name of 
+the file you want to encrypt as an argument. GnuPG will interactively ask you for the UID of each public key you want to use 
+in the encryption process and then encrypt the files so that 
+they can only be read with the corresponding private key(s).
+
+To decrypt a file, use the --decrypt option. GnuPG will 
+prompt you for your passphrase and print the decrypted message to the terminal.
+
+### Signing Files
+### Output Formats
+By default, GnuPG produces encrypted files and keys in binary 
+format and uses filenames based on the original filenames. You 
+can modify this with the --armor and --output options.
+
+**The --armor and --output options must be used before either --sign or --encrypt.**
+
+
+
+
+
+
+
 
 
 
