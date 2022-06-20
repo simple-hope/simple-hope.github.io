@@ -11,6 +11,68 @@ categories: jekyll update
 
 计划：去淘宝买球盖菇菌种尝试在家种植，野外采集裸盖菇把它的孢子洒在网上买的菌包上
 
+# 淘宝
+
+## 大球盖菇菌种
+[链接](https://new.m.taobao.com/detail.htm?id=521047479622&price=10&sourceType=item&suid=1a22dcc2-f9de-4ce9-acb0-d40af054f51c&shareUniqueId=16493958180&ut_sk=1.YE29pXfrioIDAPZ4Q7kitykv_21646297_1655688295175.TaoPassword-WeiXin.1&un=c1e4d1db7c6fd857b463cb48fb1832e7&share_crt_v=1&un_site=0&spm=a2159r.13376460.0.0&sp_abtk=common_1_commonInfo&tbSocialPopKey=shareItem&sp_tk=dmJ6cTJNOTR2Q0s%3D&bc_fl_src=share-104899097520723-2-1&cpp=1&shareurl=true&short_name=h.fFRXN6D&bxsign=scdxwGOewVdQpYx1MTVmwjbSdcW0ChB0QJ5dUhFbhg2lC2pKMfBWsLfc11nwdifh0S57AkKN4m0zBBaa_8vF9p7ulWUOJuw1xNUor-SDgYqHeRsR7JZCo8mac1SavH5VjY1&tk=vbzq2M94vCK&app=weixin)
+
+栽培条件
+
+（1）水分水分是大球盖菇菌丝及子实体生长不可缺少的因子。基质中含水量的高低与菌丝的生长及长菇量有直接的关系，菌丝在基质含水量65%～80%的情况下能正常生长，最适含水量为70%～75%。培养料中含水量过高，菌丝生长不良，表现稀、细弱，甚至还会使原来生长的菌丝萎缩。在南方实际栽培中，常可发现由于菌床被雨淋后，基质中含水量过高而严重影响发菌，虽然出菇，但产量不高。子实体发生阶段一般要求环境相对湿度在85%以上，以95%左右为宜。菌丝从营养生长阶段转入生殖生长阶段必须提高空间的相对湿度，方可刺激出菇，否则菌丝虽生长健壮，但空间湿度低，出菇也不理想。
+
+（2）营养营养物质是大球盖菇的生命活动的物质基础，也是获得高产的根本保证。大球盖菇对营养的要求以碳水化合物和含氮物质为主。碳源有葡萄糖、蔗糖、纤维素、木质素等，氮源有氨基酸，蛋白胨等。此外，还需要微量的无机盐类。实际栽培结果表明，稻草、麦秆、木屑等可作为培养料，能满足大球盖菇生长所需要的碳源。栽培其他蘑菇所采用的粪草料以及棉籽壳反而不是很适合作为大球盖菇的培养基。麸皮、米糠可作为大球盖菇氮素营养来源，不仅补充了氮素营养和维生素，也是早期辅助的碳素营养源。
+
+（3）温度温度是控制大球盖菇菌丝生长和子实体形成的一个重要的因子。
+
+①菌丝生长阶段。大球盖菇菌丝生长温度范围是5～36℃，最适生长温度是24～28℃，在10℃以下和32℃以上生长速度迅速下降，超过36℃，菌丝停止生长，高温延续时间长会造成菌丝死亡。在低温下，菌丝生长缓慢，但不影响其生活力。当温度升高至32℃以上时，虽还不致造成菌丝死亡，但当温度恢复适宜温度范围，菌丝的生长速度已明显减弱。在实际栽培中若发生此种情况，将影响草堆的发菌，并影响产量。
+
+②子实体生长阶段。大球盖菇子实体形成所需的温度范围是4～30℃，原基形成的最适温度是12～25℃。在此温度范围内，温度升高，子实体的生长速度增快，朵形较小，易开伞；而在较低的温度下，子实体发育缓慢，朵形常较大，柄粗且肥，质优，不易开伞。子实体在生长过程中，遇到霜雪天气，只要采取一定的防冻措施，菇蕾就能存活。当气温超过30℃以上时，子实体原基即难以形成。
+
+（4）光线大球盖菇菌丝的生长可以完全不要光线，但散射光对子实体的形成有促进作用。在实际栽培中，栽培场选半遮荫的环境，栽培效果更佳。主要表现在两个方面：其一产量高；其二是菇的色泽艳丽，菇体健壮，这可能是因为太阳光提高地温，并通过水蒸汽的蒸发促进基质中的空气交换以满足菌丝和子实体对营养、温度、空气、水分等的要求。但是，如果较长时间的太阳光直射，造成空气湿度降低，会使正在迅速生长而接近采收期的菇柄龟裂，影响商品的外观。
+
+（5）空气大球盖菇属于好气性真菌，新鲜而充足的空气是保证正常生长发育的重要环境条件之一。在菌丝生长阶段，对通气要求不敏感，空气中的二氧化碳浓度可达0.5%～1%；而在子实体生长发育阶段，要求空间的二氧化碳浓度要低于0.15%。当空气不流通、氧气不足时，菌丝的生长和子实体的发育均会受到抑制，特别在子实体大量发生时，更应注意场地的通风，只有保证场地的空气新鲜，才有可能获得优质高产。
+
+（6）pH值大球盖菇在pH值4.5～9均能生长，但以pH值为5～7的微酸性环境较适宜。在pH值较高的培养基中，前期菌丝生长缓慢，但在菌丝新陈代谢的过程中，会产生有机酸，而使培养基中的pH值下降。菌丝在稻草培养基自然pH值条件下可正常生长。
+
+（7）土壤大球盖菇菌丝营养生长阶段，在没有土壤的环境能正常生长，但覆土可以促进子实体的形成。不覆土，虽也能出菇，但时间明显延长，这和覆盖层中的微生物有关。覆盖的土壤要求含有腐殖质，质地松软，具有较高的持水率。覆土以园林中的土壤为宜，切忌用砂质土和粘土。土壤的pH值以5.7～6.0为好。
+
+总括起来，大球盖菇栽培的主要参数为：
+
+（1）发菌菌丝培养温度21～27℃；培养料含水量70%～75%；培养时间25～45天；二氧化碳浓度>2%，通风每小时0～1次，不需要光照。
+
+（2）菇蕾形成原基分化温度10～16℃，相对湿度95%～98%；时间14～21天；二氧化碳浓度<0.15%；通风每小时4～8次或根据二氧化碳的浓度而定；光照100～500勒克斯。
+
+（3）子实体发育（长菇）生长温度16～21℃，相对湿度85%～95%；时间7～14天，二氧化碳浓度<0.15%，通风每小时4～8次，光照100～500勒克斯，出菇两潮间相隔3～4周。
+
+
+ 菌种制作
+
+大球盖菇菌种生产方法和蘑菇、草菇菌种生产方法基本相同，可用组织分离法和孢子分离法获得纯菌种，新区主要靠引进母种或原种。适合大球盖菇母种生产的培养基如下：
+
+母种培养基
+（1）麦芽糖酵母琼脂培养基（MYA）大豆蛋白胨（豆胨)1克、酵母2克、麦芽糖20克、琼脂20克，加水至1000毫升。
+
+（2）马铃薯葡萄糖酵母琼脂培养基（PDYA）马铃薯300克（加水1 500毫升，煮20分钟，用滤汁）、酵母2克、豆胨1克、葡萄糖10克、琼脂20克，加水至1 000毫升。
+
+（3）燕麦粉麦芽糖酵母琼脂培养基（DMYA）燕麦粉80克、麦芽糖10克、酵母2克、琼脂20克，加水至1 000毫升。
+
+上述3种配方中如不加琼脂，即可作为液体培养基。以上培养基需按常规配制、分装、灭菌、接种和培养。
+
+原种和栽培种培养基
+（1）小麦秆或裸麦秆，切碎（长2～3厘米），泡湿，装瓶，高压灭菌后备用。
+
+（2）小麦、裸麦，高粱、玉米、小米等谷粒浸泡，煮透至没有白芯但表皮不破，加2%碳酸钙，装瓶，高压灭菌后备用。
+
+（3）木屑和小木片各40%、麸皮20%，制作栽培种培养基。
+
+还可用平菇或金针菇下脚料作培养基重新灭菌后备用。
+
+接种
+可以用培养3～4天的液体菌种接种。若用固体菌种必须加大接种量（菌种/培养料），接种量最少10%，最好15%～20%。
+
+培养
+接种后，把菌种瓶或袋放在20～28℃培养室中培养。大球盖菇菌丝生长几天后，菌丝生长速度会逐渐缓慢，加速菌丝生长的方法是搅拌。用液体菌种接种的无菌麦粒培养基，每隔3～7天摇瓶一次，把菌丝摇断，可以刺激菌丝再生，能保证菌丝生长旺盛。
+
 # 知乎话题精华：蘑菇、毒蛇
 
 ## 常用网站
@@ -242,7 +304,7 @@ After your first successful grow, it’s likely you will be eager to learn about
 + Measuring cup 量杯
 1. HYGIENE 卫生 SUPPLIES
 + Butane/propane torch lighter 丁烷/丙烷火炬打火机
-+ Surgical mask (optional) 外科口罩（可选）
++ surgical mask (optional) 外科口罩（可选）
 + Surface disinfectant 表面消毒剂
 + Sterilized latex gloves 无菌乳胶手套 (optional)
 + Air sanitizer 空气消毒剂
@@ -421,7 +483,8 @@ After your second or third flush, you may start to notice contaminants on the ca
 
 And that’s it! Hopefully, this Tek has inspired you to expand your learning and take on more advanced bulk 批量 growing techniques!
 
-**读了又读**[：](https://wayofleaf.com/psychedelics/how-to-grow-magic-mushrooms)
+
+
 
 
 
@@ -616,3 +679,151 @@ Psilocybe taiwanensis Zhu L. Yang & Guzman菌盖直径2~3cm，近锥形至平展
 + 蟾蜍素
 
 
+
+
+## How to Grow Magic Mushrooms
+[All You Need to Know](https://wayofleaf.com/psychedelics/how-to-grow-magic-mushrooms)
+
+Psychedelic（迷幻） mushrooms, also known as magic mushrooms or shrooms, are surprisingly easy to grow. All you need is some basic equipment, a substrate, some spores, and a little patience.
+
+In this beginner’s guide, we’ll explain everything you need to know about how to grow magic mushrooms at home. Before you know it（在不知不觉中）, you’ll have a bountiful（丰富的） harvest on your hands.
+
+### How to Grow Psilocybin Mushrooms
+Magic mushrooms are fungi（真菌） containing the psychoactive（有精神活性的） compound（化合物） psilocybin. This chemical acts on serotonin receptors（血清素受体） in the brain to produce effects (commonly known as a trip).
+
+![how-to-grow-psilocybin-mushrooms](https://wayofleaf.com/wp-content/uploads/2020/09/wol_article_pic_how_to_grow_psilocybin_mushrooms.jpg)
+
+Humans have used psilocybin mushrooms for thousands of years, and experts regard them as（把它们看作） having a good safety profile（安全性）. However, the Controlled Substances Act（受控物质法） classifies them as（把它们归类为） a Schedule 1 Substance, and they are illegal in most places.
+
+The situation is slowly changing as researchers learn more about the therapeutic（治疗的） potential（潜力） of these mushrooms. But although they have now been decriminalized（合法化） in several US cities, mushrooms are still challenging to come by. Therefore, more and more people are wondering about how to grow mushrooms at home.
+
+### Growing Magic Mushrooms
+Magic mushrooms grow naturally in many different regions（地区） of the world. Therefore, if you live in the right place, you may be lucky enough to find some in the wild（野外）. However, for those without experience, it is easy to misidentify mushrooms – a potentially lethal（致命） mistake.
+
+![growing magic mushrooms](https://wayofleaf.com/wp-content/uploads/2020/09/wol_article-image_growing-magic-mushrooms.jpg)
+
+The best way to stay safe is to grow magic mushrooms at home or buy from a reputable source. Due to（由于） their current legal status, the latter（后者） may not be an option. It is, however, possible to purchase spores as these do not contain the active compound psilocybin.
+
+That said, please note that growing shrooms is also illegal and readers choose to do so at their own discretion（自行决定）. This guide is for informational purposes only.
+
+### Where Do Magic Mushrooms Grow?
+If you’re wondering, “where do shrooms grow?” the answer might be “closer than you think.”
+
+Certain species（某些物种）, such as Psilocybe semilanceata, are widespread across North America and Europe（欧洲）. They also grow in many other regions of the world. Another species, Psilocybe cubensis, is prolific（多产） in tropical climates（热带气候）. P. cubensis is also one of the easiest types of mushrooms to grow at home.
+
+If you plan on searching for mushrooms in the wild, your best bet may be to try **densely（茂密） forested areas close to water**. Mushrooms require nutrients（营养） and moisture to grow, and these habitats（栖息地） provide both. Some species also grow in fields（田野） and grassland.
+
+Before harvesting mushrooms, ensure you can positively（肯定地） identify them. Several species look similar to magic mushrooms but are actually poisonous. They can cause adverse（不良） reactions ranging from mild sickness to death（从轻度疾病到死亡）. If you are unsure about whether a mushroom is safe, leave it alone.
+
+### How to Grow Magic Mushrooms at Home
+Growing magic mushrooms at home is relatively simple. However, it does require good attention to hygiene（卫生） and some patience. You will also need a few pieces of equipment, although most of them are easy to find.
+
+The most challenging aspect（方面） is getting hold of a spore syringe. It is essential（至关重要） to purchase this piece of kit（套件） from a reputable supplier. Otherwise, you could end up（最终） with contaminated spores, misidentified strains, or in some cases, just water.
+
+### What Do You Need to Grow Mushrooms?
+One of the easiest ways to cultivate（培养） mushrooms is by using a mushroom grow kit. They usually include a spore syringe, substrate, and grow bag – theoretically, everything you need. Some kits even have the mycelium (the main body of the fungus) ready to go. All you do is add water.
+
+![what do you need to grow mushrooms?](https://wayofleaf.com/wp-content/uploads/2020/09/wol_article-image_what-do-you-need-to-grow-mushrooms.jpg)
+
+The problem with growing mushrooms from a kit is that you never know what you’re going to get. 你永远不知道你会得到什么
+
+Starting from scratch is more effort 从头开始需要更多的努力 but produces more consistent 一致的 results. It also reduces the risk of contamination and is a fantastic learning experience.
+
+### Homemade Magic Mushroom Grow Kits with Spores
+Rather than purchasing a complete grow kit, you can make your own magic mushroom growing kit with spores from a syringe and some other essential items 必需品 .
+
+Here’s what you’ll need:
+
+12 cc spore syringe
+#### For the substrate:
++ ⅔ cup vermiculite per jar + extra
++ ¼ cup drinking water per jar
++ ¼ cup organic brown rice flour 有机糙米粉 per jar
+#### Equipment:
++ 12 shoulderless 无肩 ½ pint jars
++ Hammer and small nail
++ Mixing 搅拌 bowl
++ Strainer
++ Heavy-duty tin foil
++ Large pot with a tight-fitting 紧密的 lid
++ Small towel
++ micropore 微孔 tape
++ 50–115L clear 透明的 plastic storage box
++ drill with ¼-inch bit
++ Perlite
++ spray bottle
+### Hygiene essentials 卫生要素 :
++ Rubbing alcohol
++ torch lighter
++ disinfectant
++ Air sanitizer
++ latex gloves, surgical mask, still-air box 静气箱 (optional)
+
+**翻译到这里暂停，直到有找到野外蘑菇的希望**
+## Process:
+Prepare the jars:
+Disinfect the hammer and nail and use them to punch four evenly-spaced holes around the lid’s circumference.
+Prepare the substrate:
+Mix ⅔ cup vermiculite and ¼ cup water per jar in a mixing bowl.
+Disinfect the strainer and remove the excess water.
+Add ¼ cup brown rice flour per jar and combine.
+Fill the jars:
+Loosely pack the substrate into the jars to around half-inch below the rims.
+Sterilize the exposed glass with rubbing alcohol, then top off with dry vermiculite.
+Steam to sterilize:
+Screw the jar lids on tightly and cover securely with foil.
+Ensure that no water or condensation can enter the jar through the holes.
+Place the towel in the base of the pan and arrange the jars on top.
+Add water to around halfway up the jars and bring to a slow boil.
+Steam for 75–90 minutes, adding more hot water if the pan boils dry.
+Keep the jars upright throughout.
+Allow to cool to room temperature for several hours or overnight.
+Prepare the spore syringe:
+Use the lighter to heat the syringe’s needle until red hot.
+Allow to cool and wipe with rubbing alcohol, taking care not to touch it.
+Pull back the plunger slightly and shake well.
+Reduce the risk of contamination by wearing latex gloves and a surgical mask, especially if the syringe requires assembly.
+Inject spores:
+Remove the foil from a jar and insert the syringe as far as possible through one of the holes.
+With the needle against the jar’s side, inject around ¼ cc of the spore solution.
+Repeat for each of the holes, cleaning the needle with alcohol between each one.
+Cover the holes with micropore tape.
+Repeat for remaining jars.
+Play the waiting game:
+Place the jars in a clean area where they won’t be disturbed.
+Keep at room temperature (70–80-degrees Fahrenheit) and out of direct sunlight.
+After 7–14 days, white mycelium should start to appear.
+After 3–4 weeks, at least half of the jars should have successful colonies or ‘cakes.’ At this stage, wait an additional seven days to strengthen the mycelium.
+If any jars show signs of contamination, dispose of them carefully. Do this outdoors using secure bags, without removing the lids.
+Prepare the fruiting chamber:
+Drill ¼-inch holes approximately two inches apart all over the plastic storage container, including its base and lid.
+Place the box on four stable objects to allow airflow underneath.
+Cover with a towel to retain moisture.
+Add perlite:
+Put the perlite in a strainer and soak it with water by running under the cold tap.
+Allow to drain thoroughly, then spread over the base of the chamber.
+Repeat the process until you have a 4–5-inch layer of perlite covering the base.
+Rehydrate the cakes:
+Remove the substrate cakes from the jars, taking care not to damage them.
+Rinse the cakes under the cold tap to remove loose vermiculite.
+Fill your cooking pot with lukewarm water and put the cakes inside.
+Use another pot or a plate to keep them under the water’s surface.
+Leave at room temperature for 24 hours while the cakes rehydrate.
+Roll the cakes:
+Remove the cakes from the water and put them on a disinfected surface.
+Fill the mixing bowl with dry vermiculite and roll the cakes to coat.
+Transfer:
+Place the cakes in the fruiting chamber, set upon foil squares big enough to stop them touching the perlite.
+Space them evenly and mist with the spray bottle.
+Fan with the lid before closing.
+Wait for fruiting to begin:
+Mist the chamber four times a day, but do not soak the cakes in water.
+Fan with the lid six times a day to improve air circulation.
+Some growers use lights set on a 12-hour cycle, but ambient lighting during the day is sufficient.
+Wait for mushrooms to appear.
+How Long Does It Take to Grow Magic Mushrooms?
+How long do shrooms take to grow? This can vary according to the variety and conditions.
+
+Keep a close eye on your mycelium cakes, and you should soon start to see them appearing as white bumps, which then sprout into ‘pins.’ The mushrooms should be ready to harvest 5–12 days after this. It is best to pick them before the veil breaks, revealing the gills.
+
+Hopefully this guide on “how long does it take to grow mushrooms indoors” (~1–2 months) has been helpful. Remember, however – it is the responsibility of the reader to know and understand all rules and regulations regarding the cultivation of mushrooms in their specific state or region.
