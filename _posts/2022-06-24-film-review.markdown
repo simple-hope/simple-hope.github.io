@@ -426,3 +426,23 @@ We said hi, and we said bye, just like we never met before.
 ### 明日传奇2
 拥有轻易改造现实的魔法，这对每个人都是个诱惑
 
+### 明日传奇7
+#### 3
+Ava: I know it doesn't make any sence, but love isn't logical.
+
+Gideon: I held onto these memories because of the moments that made me who I am.
+
+Gideon: I know the legends can be a batty bunch, but they're my friends. And I wouldn't be me without them.
+
+Gideon: He'd been a person, but then suddenly he was just a thing. She couldn't move for hours. It's like all of her energy turned to grief.
+
+virus: All of this misery, regret, loss that you're feeling. I can make it go away.
+#### 4
+Zari: This place is one of the few safe spaces that exist in this entire crummy time period. I'm not gonna be able to sleep knowing we had a hand in destroying it, are you?
+
+Astra: Nobody chooses this. They find themselves in too deep, and they have to grab onto whatever they can to keep from drowning. That is not a choice. That is survival.
+
+to Zari: Look, what's happening tonight is a one-time special. Be in the moment, here, now.
+
+You are right in me and Zari. We are a bit stuck. But I've been okay with it because, well, I'm afraid of what comes next.
+
