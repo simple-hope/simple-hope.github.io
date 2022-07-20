@@ -445,4 +445,13 @@ Astra: Nobody chooses this. They find themselves in too deep, and they have to g
 to Zari: Look, what's happening tonight is a one-time special. Be in the moment, here, now.
 
 You are right in me and Zari. We are a bit stuck. But I've been okay with it because, well, I'm afraid of what comes next.
+#### 5
+Nate: He made me realize that I've been using your totum as an excuse not to take the next step.
+
+#### 7
+to Astra: Young ones like you think it's all about now. It's not. We are all just branches on a tree. There are some below us, some yet to come. This war gave us a chance to finally wake this country up. But that doesn't happen overnight. Slow and steady progress, that's sustainable progress.
+
+Astra: You don't stick a knife in a man's back nine inches, and then pull it out six inches and call it progress. It's torture. （用刀捅人捅进去9寸，然后再拔出来那6寸不叫进步，那叫折磨。）
+
+to Astra: What good is change if it doesn't last?
 
