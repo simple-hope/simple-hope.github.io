@@ -16,6 +16,15 @@ ffmpeg -i 输入文件名 -ss 1:02:03 -t 持续时长 -c copy 输出文件名
 robocopy、rsync
 ```
 
+### plex-web无管理权
+当您登录到Plex服务器的基于Web的控制面板时，根本无法访问控制面板，并得到“您无权访问此服务器。“或者，如果您曾经涉足过多个服务器，或者已经使用其他帐户在同一台计算机上删除并安装了Plex服务器，则无法使用该帐户登录你想使用。
+
+sudo systemctl status plexmediaserver.service	#验证，看plex服务是否启动
+
+sudo systemctl restart plexmediaserver.service
+
+重启后可在plex的设置->管理->插件下看到。
+
 ## 加密库变更作业流程
 通常先在宿舍设备的本地硬盘做变更，累积了一定量的变更后用robocopy同步到移动硬盘，同类作业完成后用usb复制到网络存储，用git-push同步到远程版本库
 

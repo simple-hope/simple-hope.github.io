@@ -460,11 +460,45 @@ We said hi, and we said bye, just like we never met before.
 
 ## 电视剧
 
+### 神盾局特工1
+Nick Fury gave me this badge. When he did, I swore an oath 宣誓 , we all did. To serve when everything else fails, to be humanity's last line of defence
+
 ### 神盾局特工6
 Take it one step at a time. It's not your job to solve every problem. Your job is to put together a team you trust and then to tell them to take it one step at a time. That's all you can do. If you think about everything you're up against all at once, you'll crack. Fury always said, a man can accomplish anything once he realizes he's a part of something bigger.
 
+Every nightmare I've endured can be traced back to one single moment.
+
+I learn magic the hard way.
+
+I wanted to tell you the right way. Miss Lu taught me to put my troubles away in a litttle box so they wouldn't keep me up at night. 
+
+### 绿箭侠6
+He lost sight of the bigger picture.
+
+You have no ability to think big picture.
+
+### 女超人4
+#### 1
+The impact 影响 has been far-reaching and profound 意义深远的
+
+There's a fresh wave of anti-alien sentiment 情感
+
+Let him who desires peace prepare for war.
+
+Those days are behind me. I made a vow 誓言 to live a peaceful life
+
+your face was a mask of enigma 费解的事物、谜团、英格玛密码机 as usual.
+
+I've been fighting on the front line for a lont time now.
+
+
+What we choose to wear tells a story about who we are. Whether you wear black and leather or pastels and silk, you're creating an inner version of yourself whether you realize it or not.
+
+
 ### 明日传奇2
-拥有轻易改造现实的魔法，这对每个人都是个诱惑
+Everything powerful is dangerous.
+
+Absolute power corrupts. Having the ability to rewrite your own reality, it’s too much temptation for anyone.
 
 ### 明日传奇7
 #### 3
