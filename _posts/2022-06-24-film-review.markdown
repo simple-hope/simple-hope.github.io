@@ -471,6 +471,10 @@ The night she died, I could still hear her voice in my head. It didn't make it b
 
 Expect disappointment, and you will never get disappointed. 对失望抱有期望，你就不会感到失望。
 
+Even after she was hurt, she said to me that we did the right thing. Maybe she didn't die for nothing.
+
+It was heartbreaking.
+
 ## 搞笑评论
 美国队长2、雪国列车、神偷奶爸2、奇幻森林、复仇者联盟2
 
