@@ -18,6 +18,7 @@ categories: jekyll update
 |素颜(英文版)|阿摩司|
 |勇气(英文版)|阿摩司|
 |有何不可(English Ver.)|KBShinya/A路人|
+|青春修炼手册|金小鱼|
 
 # 时间分类
 
@@ -41,7 +42,6 @@ categories: jekyll update
 she
 Be What You Wanna Be
 爱的回归线
-青春修炼手册
 爱如潮水
 ```
 
@@ -60,6 +60,9 @@ Be What You Wanna Be
 ## 工作
 
 ```
+一直很安静
+佛系少女
+光年之外
 可惜我是水瓶座
 学猫叫
 always online
@@ -375,4 +378,4 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 14. XXX (Inst.)&XXX(off vocal)：指XXX歌曲的无人声演奏版(伴奏)。Inst.为Instruments的缩写。
 15. XX(Live)** - live&XX(Live)：歌曲在音乐会或演唱会录制的现场版本。**
 16. XXX(DEMO)：指一首歌的小样，不会正式发行。
-17. XXX(-Clean)：净版或者说是和谐版，对应的XXX（-Explicit）为所谓的脏版。比如This Summer’s Gonna Hurt Like a Motherf*cker
+17. XXX(-Clean)：净版或者说是和谐版，对应的XXX（-Explicit）为所谓的脏版。比如`This Summer’s Gonna Hurt Like a Motherf*cker`
