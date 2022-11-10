@@ -5,7 +5,7 @@ date:   2022-01-28 18:00:00 +0800
 categories: jekyll update
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1398343651&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1977005723&auto=1&height=66"></iframe>
 
 # 中英文版均有的歌
 
@@ -105,6 +105,7 @@ New boy
 
 |NAME|SINGER|
 |----|----|
+|all day|fcj/softshell/rosarrie|
 |世间美好与你环环相扣|冯提莫|
 |我多想快快长大|李昕融|
 |你笑起来真好看|李昕融|
