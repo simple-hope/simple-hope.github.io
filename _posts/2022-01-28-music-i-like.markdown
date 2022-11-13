@@ -11,6 +11,7 @@ categories: jekyll update
 
 |NAME|SINGER|
 |----|----|
+|Dream It Possible|Delacey|
 |Proud Of You|冯曦妤|
 |How Far I'll Go（海洋之心）||
 |小幸运（英文版）||
@@ -70,8 +71,6 @@ Prague Cello Quartet
 可惜我是水瓶座
 学猫叫
 always online
-Viva la vida
-New boy
 一人有一个梦想
 房间
 大约在冬季
@@ -81,7 +80,6 @@ New boy
 雨蝶
 最美的期待
 味道
-月亮的脸
 天父
 一千年以后
 引力
@@ -107,8 +105,6 @@ New boy
 |----|----|
 |all day|fcj/softshell/rosarrie|
 |世间美好与你环环相扣|冯提莫|
-|我多想快快长大|李昕融|
-|你笑起来真好看|李昕融|
 |微微|YoYo|
 |雨爱|杨丞琳|
 |左边|杨丞琳|
@@ -130,10 +126,8 @@ New boy
 |星空下的我|柒老师本柒|
 |匆匆那年|柒老师本柒|
 |漂洋过海来看你|柒老师本柒|
-|如果云知道|柒老师本柒|
 |喜欢你|柒老师本柒|
 |走着走着就散了|小段|
-|别烦恼|桔桃的梦|
 
 # 歌手分类
 
@@ -321,7 +315,6 @@ flashlight (From "Pitch Perfect 2" Soundtrack)
 |Glad You Came|Boyce Avenue|
 |Why Would I Ever|Paula DeAnda|
 |Nevada|Vicetone / Cozi|
-|Dream It Possible|Delacey|
 |Attention|Charlie Puth|
 |Marry You|Bruno Mars|
 |The Ocean (Radio Edit)|Mike Perry / SH|
