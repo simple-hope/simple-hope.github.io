@@ -63,6 +63,7 @@ Be What You Wanna Be
 ```
 The Phantom of the Opera
 Prague Cello Quartet
+白月光与朱砂痣
 天使的翅膀
 好人好梦
 一直很安静
