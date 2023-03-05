@@ -1,11 +1,14 @@
----
+# 2022-03-08-movie-english.markdown
+
 layout: post
 title:  "活用影视英语"
 date:   2022-03-08 09:25:26 +0800
 categories: jekyll update
----
+
+***
 
 ## love
+
 When I told you that I missed you, I didn't mean to make you feel pressured.
 
 Maybe we were meant to be together.
@@ -21,6 +24,7 @@ Whoever breaks her's in for a wide ride.
 Maybe this thing between us is clouding my judgment.
 
 ### seperate
+
 What if I can't be the person that you need?
 
 It okay to miss someone we've lost.
@@ -31,6 +35,7 @@ It can be hard to face that my time with someone is coming to an end. Some times
 I'm unsure what happens next. But endings are necessary for growth. No matter how painful they may be.
 
 ### death
+
 I felt the weight of her death.
 
 I think I just know how to deal with separate now, so it doesn't affect me as mush as it once did.
@@ -38,9 +43,11 @@ I think I just know how to deal with separate now, so it doesn't affect me as mu
 Those days are past us now.
 
 ## hard
+
 I've tried harder at this than I ever have at anything.
 
 ## hope/faith
+
 You had more faith than I did.
 
 We need to hope destinies 命运 can be rewritten.
@@ -50,15 +57,18 @@ Now you are here in the faint hope 一线希望 I can alter it.
 The future isn't set. There is still hope.
 
 ## possibility
+
 Sometimes, great possiblities are right in front of us, and we don't see them, because we choose not to.
 He took a leap, and it changed his life for the better.
 
 ## 随缘
+
 Allowing events to unfold naturally turned out in our favor.
 
 I'm gonna stay just the same 维持现状
 
 ## 面对
+
 We have to live with the choices we make.
 
 You're just postponing the inevitable. 推迟了不可避免的事
@@ -68,6 +78,7 @@ It's time to grow up and face the music(现实)
 Life is beautiful and terrible, all at the same time. But if we're only living part of it, then we're not living at all.
 
 ## perfect
+
 My country is by no means perfect, but at least we are free to criticize out government, vote in fair elections, and love whom we choose.
 
 Sometimes, we screw things up for the better.
@@ -77,6 +88,7 @@ Sometimes things get messed up for the better.
 I can’t see my way to a clear, definite ending for this plan. How do I act on a plan when I fell this doubt.
 
 ## pain / darkness
+
 Pain is a great motivator 动力
 
 Haven't all students of history? Those who suffer heal. Everything destoryed get rebuilt. And our towers grow a little taller every time.
@@ -96,6 +108,7 @@ I always try and mask my pain in front of beautiful women, 'cause I thing it mak
 No one is responsible for the family they are born into. All that matters is who they decide to be, and you've decided to be brave and big-hearted.
 
 ## fear
+
 Ignorance breeds fear. 无知会产生恐惧
 
 The fear that's spreading 扩散 in this country like wildfire 星火燎原 isn't because the president lied. It's because she comes from some place different.
@@ -122,11 +135,13 @@ Courage is the mastery of fear, not the absence of it.
 I forgot what fear felt like.
 
 ### complicate
+
 All I can say is that part of my life is very complicated.
 
 The world is a much more complicated place than I realize.
 
 ### patience / slow
+
 Greatness takes time. If a string（绳子） is in a knot, patience will untie it.
 
 In my experience, the answers usually tend to come in time.
@@ -136,17 +151,20 @@ Sometimes you just have to slow down to get back to where you want to be.
 A seedling's（幼苗） wait is over!
 
 I'm just wondering if going after it now is premature（为时过早）
-+ go after：追逐；追赶；寻找。
-+ chase：爱情意义上的追求
+
+-   go after：追逐；追赶；寻找。
+-   chase：爱情意义上的追求
 
 ## religion
+
 We are all children in the eyes of God!
 
 It's like I've gota deeper connection to religion than I've ever had.
 
 In the Bible, it says that God created the world and saw that it was good. That is what you see when you look from stillness without thought.
 
-### silence / 
+### silence /
+
 True intelligence operates silently. Stillness is where creativity and solutions to problems are found.
 
 I just needed to clear my head.
@@ -156,6 +174,7 @@ That's not a decision that can be made lightly.
 It's hard to concentrate in these intense（紧张） situations.
 
 #### 改变与适应
+
 Things have changed.
 
 Fitting in is hard enough, so many people telling you what to do and what to wear.
@@ -167,36 +186,44 @@ It's just a lot to take in right now.
 Obviously, this is going to be a time of adjustment.
 
 ## thank / appreciate
+
 Thank you god for this food are about to receive and for the nourishment of out bodies, and bless the hands that prepare it.
 
 I guess this could all be mine someday.
 
 ## look forawad
+
 what's done is done. All we can do now is look forward.
 
 Instead of assigning blame, let's try to figure out what we're gonna do next.
 
 ## 冥想
+
 There's nothing like a 20-second meditation micre-sesh to Zen out.
 
 ## trust
+
 You just spent too much time with my sisters to be trusted.
 
 ## magic
+
 Being yourself, that is a magic stronger than any wish.
 Being truly okay with myself. Scars and all is how the right people truly found me.
 
 A magician never reveals his secrets.
 
 ## 坦诚
+
 I think that it's great that everything's just out there, right out in the open.
 
 ## 短句
+
 Duty calls. 职责所在
 
 No boats on or off.
 
 ### 名言
+
 Kill two birds with one stone, as it were 可以说是
 
 Every time a door closes, a window opens.
@@ -211,6 +238,7 @@ Pieces solving a puzzle. 众人拾柴火焰高
 The fuse was lit. 导火索已经引燃
 
 ## life
+
 Life is a game of chance.（碰运气）
 
 My hands are tied.（我无能为力）
@@ -222,12 +250,13 @@ The world is full of wonder.
 Positive psychology can help you figure out where your true path is supposed to be.
 
 ## 纪录片
+
 This astonishing new way of seeing the night offers a whole new understanding of lion family life.
 
 To stay clam in intense situations, my only option is to abandon my desire.
 
 She's right to persevere（坚持不懈）.
- 
+
 Hyenas（鬣狗） are close by. And they're not the only threat.
 
 The lioness（母狮子，单数） can sense the dangers.
@@ -255,6 +284,7 @@ They'll feed on the corpses（巢穴） in the darkness of their burrows（尸�
 ## 知识点
 
 ### 否定句式
+
 People don't become heroes because of circumstance 境遇 . They become heroes in spite of circumstance 无论境遇如何
 
 Don't deny the animal, but don't let it control you either.
@@ -264,6 +294,7 @@ Don't go wasting that trying to keep everything under your control.
 I don't Kara as well as I know Barry, but when things get tough, he doesn't slow down.
 
 ### boot/booty
+
 We already have enough boots 人手 on the ground.
 
 The ginger 生姜 root kicks the booty of the immune system 提高免疫力.
@@ -271,6 +302,7 @@ The ginger 生姜 root kicks the booty of the immune system 提高免疫力.
 One of my superior capabilities 长处 is recovering from alcohol libations 奠酒 with remarkable speed 快速.
 
 ### charge
+
 She's in charge 领导 of a place like this. She's in charge?
 
 I'll give you a jump 充能 . Thanks for the charge 充电 .
@@ -280,29 +312,34 @@ Never charge 冲锋 without a plan.
 No new charges 控告 . No new indictment 起诉书 .
 
 ### agent
+
 Two of our agents have turned against us, against the very（表强调）thing that this agency stands for.
 
 An agent of liberty. 自由的代表
 
 ### timing
+
 I was waiting for some perfect moment which doesn't exist.
 
-I want this, just, when the time is right. 
+I want this, just, when the time is right.
 But timing doesn't just happen.
 
 I want to strike while the iron is hot.
 
 ### 保持低调
+
 Just make sure they all lay low 保持低调 until the time comes.
 
 I'll keep a low profile 保持低调.
 
 ### 汇报
+
 I'd like an update 汇报 every hour.
 
 A briefing on your current work, please. 请汇报一下你们目前的工作
 
 ### risk
+
 Was I the only one crazy enough to risk my life for something unknown?
 
 Exploring is clearly exhausting work. But I give it everything I'm got to keep my family safe in the risk.
@@ -311,6 +348,7 @@ There's no progress 进步 without risk.
 Prople risk their lives for the things they believe in all the time. They enlist and goto war to protect their country. They become firefighters to save other people.
 
 ### I'm 句式
+
 I'm not sure disarowal 否认 is the right move.
 
 I'm sorry, but Thanksgiving 感恩节 for me is all about pumpkin 南瓜派.
@@ -320,6 +358,7 @@ I'm just not up for it. 我就是不太感兴趣
 I'm sorry for your loss.
 
 ### It's 句式
+
 It's such an honor to meet you.
 
 It's not comfortable for me. But comfort is not my priority tight now.
@@ -333,6 +372,7 @@ It was more important for me to keep my vow of nonviolence.
 It was awful, and I just keep playing it over and over again in my head.
 
 ## others
+
 All I need is one loose strand and I'll unravel this mystery. 我只需要找到一个线头，就能揭开这层神秘的面纱
 
 I can't ask you to do anything against your moral code 道德准则
@@ -360,7 +400,7 @@ Now, I just have one other matter of importance to take care of, and once I do, 
 
 No matter the universe you and Alex, you'll find a way to have each other's backs 互相支持
 
-You need to stop beating around the bush 拐弯抹角 . 
+You need to stop beating around the bush 拐弯抹角 .
 People like people who are direct 人们喜欢直接的人
 
 The only reason I feel safe hanging up my cape 放心脱掉斗篷 for a while is because of you.
