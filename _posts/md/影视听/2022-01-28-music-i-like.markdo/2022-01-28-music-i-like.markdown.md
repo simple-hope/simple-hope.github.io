@@ -9,63 +9,20 @@ categories: jekyll update
 
 \<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2\&id=1977005723\&auto=1\&height=66">\</iframe>
 
-# 中英文版均有的歌
-
-| NAME                  | SINGER       |
-| --------------------- | ------------ |
-| Dream It Possible     | Delacey      |
-| Proud Of You          | 冯曦妤          |
-| How Far I'll Go（海洋之心） |              |
-| 小幸运（英文版）              |              |
-| If I Stay             | 肖恩Shaun G    |
-| 素颜(英文版)               | 阿摩司          |
-| 勇气(英文版)               | 阿摩司          |
-| 有何不可(English Ver.)    | KBShinya/A路人 |
-| 青春修炼手册                | 金小鱼          |
-
 # 时间分类
-
-## 中学
-
-```纯文本
-狮子座
-友情的界限
-我们的爱
-我很快乐
-我的歌声里
-与你最后的夏天
-十年
-至少还有你
-旅行的意义
-同桌的你
-心墙
-```
-
-## 大学
-
-```纯文本
-she
-Be What You Wanna Be
-爱的回归线
-爱如潮水
-```
-
-## 毕业
-
-```纯文本
-热爱105°C的你|阿肆
-一起走过的日子
-安守本分
-小酒窝
-小幸运
-盛夏的果实
-约定
-嘉宾
-```
 
 ## 工作
 
 ```纯文本
+太阳
+想把我唱给你听
+光阴的故事
+如愿
+千年之约
+确幸
+心愿便利贴
+相思
+下雨天
 The Phantom of the Opera
 Prague Cello Quartet
 白月光与朱砂痣
@@ -134,6 +91,58 @@ always online
 | 漂洋过海来看你    | 柒老师本柒                  |
 | 喜欢你        | 柒老师本柒                  |
 | 走着走着就散了    | 小段                     |
+
+## 中学
+
+```纯文本
+狮子座
+友情的界限
+我们的爱
+我很快乐
+我的歌声里
+与你最后的夏天
+十年
+至少还有你
+旅行的意义
+同桌的你
+心墙
+```
+
+## 大学
+
+```纯文本
+she
+Be What You Wanna Be
+爱的回归线
+爱如潮水
+```
+
+## 毕业
+
+```纯文本
+热爱105°C的你|阿肆
+一起走过的日子
+安守本分
+小酒窝
+小幸运
+盛夏的果实
+约定
+嘉宾
+```
+
+# 中英文版均有的歌
+
+| NAME                  | SINGER       |
+| --------------------- | ------------ |
+| Dream It Possible     | Delacey      |
+| Proud Of You          | 冯曦妤          |
+| How Far I'll Go（海洋之心） |              |
+| 小幸运（英文版）              |              |
+| If I Stay             | 肖恩Shaun G    |
+| 素颜(英文版)               | 阿摩司          |
+| 勇气(英文版)               | 阿摩司          |
+| 有何不可(English Ver.)    | KBShinya/A路人 |
+| 青春修炼手册                | 金小鱼          |
 
 # 歌手分类
 

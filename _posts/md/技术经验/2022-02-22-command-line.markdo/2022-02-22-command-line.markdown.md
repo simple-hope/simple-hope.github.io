@@ -7,6 +7,17 @@ categories: jekyll update
 
 ***
 
+### 快速创建空白占位文件
+
+```powershell
+@echo off
+:1
+fsutil file createnew .\%random%.fsutil 10737418240
+echo 注意磁盘空间变化
+pause
+goto :1
+```
+
 ### plex-web无管理权
 
 当您登录到Plex服务器的基于Web的控制面板时，根本无法访问控制面板，并得到“您无权访问此服务器。“或者，如果您曾经涉足过多个服务器，或者已经使用其他帐户在同一台计算机上删除并安装了Plex服务器，则无法使用该帐户登录你想使用。

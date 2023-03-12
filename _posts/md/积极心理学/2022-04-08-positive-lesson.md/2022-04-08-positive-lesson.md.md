@@ -1679,9 +1679,9 @@ categories: jekyll update
 
 ## 在接下来的部分中,我们分享其见解的演化及其发展。
 
-![](image/ji-ji-xin-li-xue.17-6_P2Nc3ZvE8-.png)
+![](image/ji-ji-xin-li-xue.17-6_dglH7n__dc.png)
 
-![](image/ji-ji-xin-li-xue.17-7_hoN_4D6muU.png)
+![](image/ji-ji-xin-li-xue.17-7_8w_BJR3l6N.png)
 
 ## 下一部分我们详细探究心理资本的其中一个形式——希望。
 
@@ -1759,7 +1759,7 @@ categories: jekyll update
 
 ### 如何改善你的工作
 
-![](image/ji-ji-xin-li-xue.17-8_q7XobVox99.png)
+![](image/ji-ji-xin-li-xue.17-8_piARiMbV-6.png)
 
 ### 让工作变得更好
 

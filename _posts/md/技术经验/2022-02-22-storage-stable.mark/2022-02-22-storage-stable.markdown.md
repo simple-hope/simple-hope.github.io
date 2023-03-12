@@ -15,4 +15,4 @@ categories: jekyll update
 
 gitlab服务器定时备份数据到第二硬盘。注意，git-for-win通过http访问gitlab仓库时不经询问一律保存凭据，所以在不加保护的情况下http协议只能用于work等非敏感账户。
 
-wolai的笔记自动在设备间同步，但要阶段性地导出到onedrive
+wolai的笔记自动在设备间同步，但要阶段性地导出到onedrive、发布到simple-hope.github.io

@@ -474,3 +474,85 @@ I'd like to work in the shadow.
 My rank is too low to avoid interrupting, but high enough to mastering time.
 
 My mother goes on 接着 to name 报出 five more shell companies owned by M.
+
+## 电视剧专项英语
+
+### 神盾局特工1
+
+Nick Fury gave me this badge. When he did, I swore an oath 宣誓 , we all did. To serve when everything else fails, to be humanity's last line of defence
+
+### 神盾局特工6
+
+Take it one step at a time. It's not your job to solve every problem. Your job is to put together a team you trust and then to tell them to take it one step at a time. That's all you can do. If you think about everything you're up against all at once, you'll crack. Fury always said, a man can accomplish anything once he realizes he's a part of something bigger.
+
+Every nightmare I've endured can be traced back to one single moment.
+
+I learn magic the hard way.
+
+I wanted to tell you the right way. Miss Lu taught me to put my troubles away in a litttle box so they wouldn't keep me up at night.
+
+### 绿箭侠6
+
+He lost sight of the bigger picture.
+
+You have no ability to think big picture.
+
+### 女超人4
+
+#### 1
+
+The impact 影响 has been far-reaching and profound 意义深远的
+
+There's a fresh wave of anti-alien sentiment 情感
+
+Let him who desires peace prepare for war.
+
+Those days are behind me. I made a vow 誓言 to live a peaceful life
+
+your face was a mask of enigma 费解的事物、谜团、英格玛密码机 as usual.
+
+I've been fighting on the front line for a lont time now.
+
+What we choose to wear tells a story about who we are. Whether you wear black and leather or pastels and silk, you're creating an inner version of yourself whether you realize it or not.
+
+### 明日传奇2
+
+Everything powerful is dangerous.
+
+Absolute power corrupts. Having the ability to rewrite your own reality, it’s too much temptation for anyone.
+
+### 明日传奇7
+
+#### 3
+
+Ava: I know it doesn't make any sence, but love isn't logical.
+
+Gideon: I held onto these memories because of the moments that made me who I am.
+
+Gideon: I know the legends can be a batty bunch, but they're my friends. And I wouldn't be me without them.
+
+Gideon: He'd been a person, but then suddenly he was just a thing. She couldn't move for hours. It's like all of her energy turned to grief.
+
+virus: All of this misery, regret, loss that you're feeling. I can make it go away.
+
+#### 4
+
+Zari: This place is one of the few safe spaces that exist in this entire crummy time period. I'm not gonna be able to sleep knowing we had a hand in destroying it, are you?
+
+Astra: Nobody chooses this. They find themselves in too deep, and they have to grab onto whatever they can to keep from drowning. That is not a choice. That is survival.
+
+to Zari: Look, what's happening tonight is a one-time special. Be in the moment, here, now.
+
+Nata: You are right in me and Zari. We are a bit stuck. But I've been okay with it because, well, I'm afraid of what comes next.
+
+#### 5
+
+Nate: He made me realize that I've been using your totum as an excuse not to take the next step.
+
+#### 7
+
+to Astra: Young ones like you think it's all about now. It's not. We are all just branches on a tree. There are some below us, some yet to come. This war gave us a chance to finally wake this country up. But that doesn't happen overnight. Slow and steady progress, that's sustainable progress.
+
+Astra: You don't stick a knife in a man's back nine inches, and then pull it out six inches and call it progress. It's torture. （用刀捅人捅进去9寸，然后再拔出来那6寸不叫进步，那叫折磨。）
+
+to Astra: What good is change if it doesn't last?
